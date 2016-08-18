@@ -34,6 +34,9 @@ end
 #   end
 # end
 
+set :js_dir, 'js'
+set :css_dir, 'css'
+
 # Build-specific configuration
 configure :build do
   # Minify CSS on build
