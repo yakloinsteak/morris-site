@@ -1,1 +1,22 @@
 @charset "utf-8";
+
+* {
+  font-family: 'Alice', serif;
+  font-weight: 500;
+}
+
+.dance {
+  margin-bottom: 3em;
+  overflow: hidden;
+  border: 1px solid #eeeeee;
+  border-radius: 25px;
+  background: linear-gradient(to bottom, transparent 0, black 98%);
+}
+
+.dance h4 {
+  margin: 1em;
+  span {
+    font-size: 75%;
+    font-style: italic;
+  }
+}
