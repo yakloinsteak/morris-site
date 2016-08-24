@@ -20,3 +20,14 @@
     font-style: italic;
   }
 }
+
+.modal-body {
+  overflow: auto;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.modal-dialog { 
+  width: 900px;
+}

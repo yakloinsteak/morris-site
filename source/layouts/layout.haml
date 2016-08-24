@@ -14,10 +14,21 @@
     = javascript_include_tag :all
     %link(href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet")
 
-
   %body{class: page_classes}
     %header.container
       = partial 'nav'
     %section.container
       = yield
     %section.footer
+
+
+#myModal.modal.fade
+  .modal-dialog
+    .modal-content
+      .modal-header
+        %button.close{"aria-hidden" => "true", "data-dismiss" => "modal", :type => "button"} ×
+        %h4.modal-title Title
+      .modal-body
+      .modal-footer
+        %button.btn.btn-default{"data-dismiss" => "modal", :type => "button"} Close
+
