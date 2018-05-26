@@ -1,8 +1,17 @@
 @charset "utf-8";
 
+@font-face {
+  font-family: Bravura;
+  src: url(/fonts/Bravura.otf);
+}
+
 * {
   font-family: 'Alice', serif;
   font-weight: 500;
+}
+
+.music {
+  font-family: 'Bravura', Helvetica, Arial, sans-serif;
 }
 
 .dance {
@@ -29,7 +38,7 @@
   justify-content: space-around;
 }
 
-.modal-dialog { 
+.modal-dialog {
   width: 900px;
 }
 

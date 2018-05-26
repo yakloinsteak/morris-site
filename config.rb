@@ -8,7 +8,8 @@
 page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
-page '/dances/*', layout: false
+page '/fonts/*', layout: false
+page '/dances/*', layout: 'dance_layout'
 
 # With alternative layout
 # page "/path/to/file.html", layout: :otherlayout

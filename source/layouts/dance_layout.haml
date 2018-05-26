@@ -1,2 +1,17 @@
-%h3
-  = current_page.data.dance_name
+- data = current_page.data
+
+%table.table
+  %tr
+    %th Musical Lead-In
+    %th Sequence
+    %th Figures
+
+  %tr
+    %td= data.lead_in
+    %td.music= data.sequence
+    %td
+      %ul
+        - data.figures.each do |figure|
+          %li= figure
+
+=yield
