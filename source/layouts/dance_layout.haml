@@ -1,17 +1,22 @@
-- data = current_page.data
+:ruby
+  data = current_page.data
+  figures = data.figures.nil? ? [] : data.figures
 
 %table.table
   %tr
     %th Musical Lead-In
     %th Sequence
     %th Figures
+    %th Dance Origin
 
   %tr
     %td= data.lead_in
     %td.music= data.sequence
     %td
       %ul
-        - [data.figures].flatten.each do |figure|
+        - figures.each do |figure|
           %li= figure
+    %td
 
-=yield
+.container
+  =yield
