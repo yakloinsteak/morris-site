@@ -1,6 +1,6 @@
 :ruby
   data = current_page.data
-  figures = data.figures.nil? ? [] : data.figures
+  figures = data.figures.nil? ? {} : data.figures
 
 %table.table
   %tr
@@ -13,9 +13,11 @@
     %td= data.lead_in
     %td.music= data.sequence
     %td
-      %ul
-        - figures.each do |figure|
-          %li= figure
+      - figures.each do |name, figures|
+        = name
+        %ul
+          - figures.each do |figure|
+            %li= figure
     %td
 
 .container
