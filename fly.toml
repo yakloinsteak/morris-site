@@ -1,6 +1,6 @@
-# fly.toml file generated for windham-morris on 2022-06-05T20:06:24-04:00
+# fly.toml file generated for gostatic-example on 2022-03-01T14:38:17-05:00
 
-app = "windham-morris"
+app = "gostatic-example"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
@@ -14,7 +14,7 @@ processes = []
 
 [[services]]
   http_checks = []
-  internal_port = 8080
+  internal_port = 8043
   processes = ["app"]
   protocol = "tcp"
   script_checks = []
@@ -25,7 +25,6 @@ processes = []
     type = "connections"
 
   [[services.ports]]
-    force_https = true
     handlers = ["http"]
     port = 80
 
