@@ -1,6 +1,6 @@
 # fly.toml file generated for gostatic-example on 2022-03-01T14:38:17-05:00
 
-app = "gostatic-example"
+app = "windham"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
