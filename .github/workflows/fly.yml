@@ -16,9 +16,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: superfly/flyctl-actions/setup-flyctl@master
-      - run: |
+      - name: build
+        run: |
           apt-get update
           apt-get install -y build-essential nodejs
           bundle install
           bundle exec middleman build
+
+      - name: deploy
+        run: |
           flyctl deploy --remote-only
