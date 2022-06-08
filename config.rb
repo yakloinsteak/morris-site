@@ -30,11 +30,11 @@ end
 ###
 
 # Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+helpers do
+  def video_link(filename)
+    "https://assets.windham.club/videos/#{filename}"
+  end
+end
 
 set :js_dir, 'js'
 set :css_dir, 'css'
