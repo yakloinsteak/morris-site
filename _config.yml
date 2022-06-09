@@ -62,3 +62,10 @@ header_pages:
   - about.md
   - contact.md
   - dances.md
+  - videos.html.haml
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
