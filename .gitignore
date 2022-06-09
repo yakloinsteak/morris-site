@@ -4,20 +4,14 @@
 # or operating system, you probably want to add a global ignore instead:
 # git config --global core.excludesfile ~/.gitignore_global
 
-# Ignore bundler config
-/.bundle
-
-# Ignore the build directory
-/build
-
-# Ignore cache
-/.sass-cache
-/.cache
-
-# Ignore .DS_store file
-.DS_Store
-
-*.rm
 *.mp4
-
+*.MP4
+*.rm
+.DS_Store
+/.bundle
+/.cache
+/.sass-cache
+/build
 /source/videos
+_site
+build
