@@ -4,10 +4,13 @@
 # or operating system, you probably want to add a global ignore instead:
 # git config --global core.excludesfile ~/.gitignore_global
 
-*.mp4
 *.MP4
+*.mp4
 *.rm
 .DS_Store
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
 /.bundle
 /.cache
 /.sass-cache
@@ -15,3 +18,4 @@
 /source/videos
 _site
 build
+vendor

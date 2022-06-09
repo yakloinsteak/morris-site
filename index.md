@@ -5,10 +5,3 @@
 layout: home
 ---
 
-# chickens
-
-boof
-
-* they good
-* they smart
-* what fun
