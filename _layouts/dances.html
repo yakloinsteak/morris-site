@@ -4,62 +4,28 @@ layout: compress
 
 <!DOCTYPE html>
 <html>
-{% include head.html %}
+
+<head>
+    {% include head.html %}
+</head>
 
 <body>
     {% include navbar.html %}
-    <section class="hero is-fullheight">
+
+    <!--Main Section-->
+    <section class="hero is-fullheight" id="project">
         <div class="hero-body">
-            <div class="container has-text-centered" id="page-section">
+            <div class="container has-text-centered">
                 <div class="section">
-                    <h1 class="title is-1 is-uppercase has-text-weight-bold">
-                        {{page.title}}
-                    </h1>
-                    <hr class="has-background-black">
-                    <div class="content is-marginless">
-                        {{ content }}
-                    </div>
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Have a Good Read</p>
                 </div>
+                {% include dance-card.html %}
             </div>
         </div>
     </section>
+    </div>
 
-    <section class="hero is-fullheight">
-      <div class="hero-body">
-        <div class="container has-text-centered" id="page-section">
-          <div class="section">
-            <h1 class="title is-1 is-uppercase has-text-weight-bold">
-              Quick Reference
-            </h1>
-            <hr class="has-background-black">
-
-            <div class="content is-marginless">
-              <p>
-                <strong>Lead in</strong>: {{ page.lead_in }}
-                <br>
-                <strong>Musical Key</strong>: {{ page.key }}
-                <br>
-                <strong>Sequence</strong>: {{ page.sequence }}
-                <br>
-                {% if page.figures.for_eight | default false %}
-                <strong>Figures for 8</strong>
-                <ul>
-                  {% for figure in page.figures.for_eight %}
-                  <li>{{figure}}</li>
-                  {% endfor %}
-                </ul>
-                {% endif %}
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-
-
-    <!--Footer begins here-->
+    <!--Footer-->
     {% include footer.html %}
 </body>
 
