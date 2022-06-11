@@ -1,0 +1,55 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+    {% include navbar.html %}
+    <section class="hero is-fullheight">
+        <div class="hero-body">
+            <div class="container has-text-centered" id="page-section">
+                <div class="section">
+                    <h1 class="title is-1 is-uppercase has-text-weight-bold">
+                        {{page.title}}
+                    </h1>
+                    <hr class="has-background-black">
+                    <div class="content is-marginless">
+
+                      {% for video_data in site.data.videos %}
+                        {% assign year = video_data[0] %}
+                        {% assign videos = video_data[1] %}
+
+                        <h2> {{ year }}  </h2>
+
+                        {% for videos in videos %}
+                          <h3> {{ videos.title }} ({{ videos.date }}) </h3>
+                          {% if videos.link contains "youtube" %}
+                            <iframe width="560" height="315" src="{{ videos.link }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                          {% elsif  videos.link contains "facebook" %}
+                            <a href="{{ videos.link }}">
+                              {{ videos.title }}
+                            </a>
+                          {% else %}
+                            <video width="560" height="315" controls='true'>
+                              <source src="{{ videos.link }}" type="video/mp4">
+                            </video>
+                          {% endif %}
+                        {% endfor %}
+                      {% endfor %}
+
+                      {{ content }}
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Footer begins here-->
+    {% include footer.html %}
+</body>
+
+</html>

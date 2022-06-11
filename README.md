@@ -11,5 +11,6 @@
 * dance images
 * port over music
 * history
+* port over other groups' videos
 
 Theme forked from [WhatATheme](https://github.com/thedevslot/WhatATheme/)
