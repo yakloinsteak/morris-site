@@ -1,20 +1,40 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html>
+{% include head.html %}
 
-  {%- include head.html -%}
-
-  <body>
-
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {%- include footer.html -%}
-
-  </body>
+<body>
+  {% include navbar.html %}
+  {% include showcase.html %}
+  {% include about.html %}
+  {% include contact.html %}
+  <!--Footer begins here-->
+  {% include footer.html %}
+</body>
+<script>
+  window.addEventListener("scroll", function (event) {
+    var scroll = this.scrollY;
+    var item = document.getElementsByClassName('navbar-item');
+    /* console.log(scroll); */
+    if (scroll < 565) {
+      item[1].classList.add('is-active');
+      item[2].classList.remove('is-active');
+      item[3].classList.remove('is-active');
+    }
+    if (scroll > 565 && scroll < 1130) {
+      item[1].classList.remove('is-active');
+      item[2].classList.add('is-active');
+      item[3].classList.remove('is-active');
+    }
+    if (scroll > 1130) {
+      item[1].classList.remove('is-active');
+      item[2].classList.remove('is-active');
+      item[3].classList.add('is-active');
+    }
+  });
+</script>
 
 </html>
