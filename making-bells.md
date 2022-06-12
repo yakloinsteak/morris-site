@@ -1,5 +1,5 @@
 ---
-title: Makeing Bells
+title: Making Bells
 ---
 
 Tools:
@@ -15,17 +15,17 @@ Tools:
 * quick-clamps (for securing straight-edge during leather cutting)
 
 
-Expendibles:
+Expendables:
 
-* 2 sets of double-sided velcro strips (one-wrap rolls). 4ftx3/4in
+* 2 sets of double-sided velcro strips (one-wrap rolls). 4ft by 3/4in
 * 20 smallest rivet backs (any color)
-* 10 smallerrivet fronts (brass)
+* 10 smaller rivet fronts (brass)
 * 10 larger rivets fronts (brass)
-* 2 rectanges of black leather (6 1/4" by 9 1/2")
+* 2 rectangles of black leather (6 1/4" by 9 1/2")
 * 10 large bells
 * 20 medium bells
 * 20 small bells
-* 50 small keyrings
+* 50 small key rings
 
 Steps:
 
