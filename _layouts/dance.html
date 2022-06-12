@@ -41,7 +41,7 @@ layout: compress
                 <br>
                 <strong>Sequence</strong>: {{ page.sequence }}
                 <br>
-                {% if page.figures.for_eight | default false %}
+                {% if page.figures.for_eight %}
                 <strong>Figures for 8</strong>
                 <ul>
                   {% for figure in page.figures.for_eight %}
