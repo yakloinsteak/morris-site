@@ -1,3 +1,7 @@
+---
+title: Music
+---
+
 .row
   .col-xl-6.col-lg-6.col-md-6.col-sm-12.col-xs-12
     %h3
