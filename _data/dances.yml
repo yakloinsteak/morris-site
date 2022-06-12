@@ -3,51 +3,61 @@
   link: /dances/barefooted-quaker
   description: Lorem
   song: Black Joke
+  song_image: /assets/music/black-joke.svg
 - name: "Barrow's House"
   image:
   link: barrows-house
   description: Lorem
   song: Over The Hills and Far Away (Anna's Rose)
+  song_image: /assets/music/annas-rose.png
 - name: Castlering
   image:
   link: castlering
   description: Lorem
   song: Bobby Shaftoe
+  song_image: /assets/music/bobby-shaftoe.png
 - name: Charington Toby
   image:
   link: charington-toby
   description: Lorem
   song: Twin Sisters
+  song_image: /assets/music/twin-sisters.png
 - name: I-91
   image: /assets/images/i-91.jpg
   link: i-91
   description: Lorem
   song: Lillibulero
+  song_image: /assets/music/lilliburlero.png
 - name: Jean Boardman's Cakes
   image:
   link: jean-boardmans-cakes
   description: Lorem
   song: Pop-Pop
+  song_image:
 - name: John Bartlett's Fancy
   image:
   link: john-bartletts-fancy
   description: Lorem
   song: Drive the Cold Winter Away
+  song_image: /assets/music/drive-the-cold-winter-away.png
 - name: Max Headroom
   image:
   link: max-headroom
   description: Lorem
   song: Donkey Riding
+  song_image: /assets/music/donkey-riding.png
 - name: "Milley's Bequest"
   image:
   link: milleys-bequest
   description: Lorem
   song: "Milley's Bequest"
+  song_image: /assets/music/milleys-bequest.png
 - name: Ring-o-bells
   image:
   link: ring-o-bells
   description: Lorem
   song: Ring-o-Bells
+  song_image: /assets/music/ring-o-bells.png
 - name: Shepherds Hey
   image:
   link: shepherds-hey
@@ -58,8 +68,10 @@
   link: sheriffs-ride
   description: Lorem
   song: "Sheriff's Ride"
+  song_image: /assets/music/sheriffs-ride.png
 - name: Vandals
   image:
   link: vandals
   description: Lorem
   song: Vandals
+  song_image: /assets/music/vandals.png
