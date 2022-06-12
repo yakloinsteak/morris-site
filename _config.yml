@@ -60,7 +60,7 @@ plugins:
   - jekyll-seo-tag
 
 # Permalink
-permalink: "blog/:title"
+permalink: "news/:title"
 
 # Compress
 compress_html:
@@ -68,8 +68,7 @@ compress_html:
 
 # Defaults
 defaults:
-  -
-    scope:
+  - scope:
       type: 'posts'
     values:
       layout: post
@@ -77,8 +76,7 @@ defaults:
       description: ""
       tags:
         - ""
-  -
-    scope:
+  - scope:
       type: 'pages'
     values:
       layout: page
@@ -91,7 +89,6 @@ defaults:
 exclude:
   - .sass-cache/
   - .jekyll-cache/
-  - gemfiles/
   - Gemfile
   - Gemfile.lock
   - node_modules/
@@ -99,4 +96,3 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - holdme
