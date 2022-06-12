@@ -1,6 +1,6 @@
 - name: Barefooted Quaker
   image:
-  link: barefooted-quaker
+  link: /dances/barefooted-quaker
   description: Lorem
   song: Black Joke
 - name: "Barrow's House"
