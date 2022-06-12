@@ -1,6 +1,7 @@
 ---
 permalink: /dances/barefooted-quaker
 dance_name: Barefooted Quaker
+title: Barefooted Quaker
 lead_in: Once to self
 key: G
 sequence: "A &#x1D106 AAB- &#x1D107"
