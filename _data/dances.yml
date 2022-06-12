@@ -2,50 +2,62 @@
   image:
   link: barefooted-quaker
   description: Lorem
+  song:
 - name: Barrows House
   image:
   link: barrows-house
   description: Lorem
+  song:
 - name: Castlering
   image:
   link: castlering
   description: Lorem
+  song:
 - name: Charington Toby
   image:
   link: charington-toby
   description: Lorem
+  song:
 - name: I-91
   image:
   link: i-91
   description: Lorem
+  song:
 - name: Jean Boardman's Cakes
   image:
   link: jean-boardmans-cakes
   description: Lorem
+  song:
 - name: John Bartlett's Fancy
   image:
   link: john-bartletts-fancy
   description: Lorem
+  song:
 - name: Max Headroom
   image:
   link: max-headroom
   description: Lorem
+  song:
 - name: Milleys Bequest
   image:
   link: milleys-bequest
   description: Lorem
+  song:
 - name: Ring-o-bells
   image:
   link: ring-o-bells
   description: Lorem
+  song:
 - name: Shepherds Hey
   image:
   link: shepherds-hey
   description: Lorem
+  song:
 - name: Sheriffs Ride
   image:
   link: sheriffs-ride
   description: Lorem
+  song:
 - name: Vandals
   image:
   link: vandals
