@@ -17,8 +17,12 @@ layout: compress
                     </h1>
                     <hr class="has-background-black">
                     <div class="content is-marginless">
-
-                      {% for video_data in site.data.videos %}
+                      {% if page.video_file_name == "other_videos.yml" %}
+                        {% assign video_list = site.data.other_videos %}
+                      {% else %}
+                        {% assign video_list = site.data.videos %}
+                      {% endif %}
+                      {% for video_data in video_list %}
                         {% assign year = video_data[0] %}
                         {% assign videos = video_data[1] %}
 
