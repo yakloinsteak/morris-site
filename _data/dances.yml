@@ -8,7 +8,7 @@
   image:
   link: barrows-house
   description: Lorem
-  song: Over The Hills and Far Away (Anna's Rose)
+  song: Over The Hills and Far Away
   song_image: /assets/music/annas-rose.png
 - name: Castlering
   image:
@@ -17,7 +17,7 @@
   song: Bobby Shaftoe
   song_image: /assets/music/bobby-shaftoe.png
 - name: Charington Toby
-  image:
+  image: /assets/images/toby.jpg
   link: charington-toby
   description: Lorem
   song: Twin Sisters
