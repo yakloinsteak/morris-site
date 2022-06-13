@@ -14,5 +14,4 @@ figures:
 dance_origin:
 ---
 
-%p
-  Five person dance.
+Five person dance.

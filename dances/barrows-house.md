@@ -14,6 +14,5 @@ figures:
 dance_origin:
 ---
 
-%p
-  Three person jig in a triangle. Rotate clockwise after each part. Capers
-  progress counter-clockwise.
+Three person jig in a triangle. Rotate clockwise after each part. Capers
+progress counter-clockwise.
