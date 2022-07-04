@@ -1,5 +1,5 @@
 - name: Barefooted Quaker
-  image: hankie.jpg
+  image: barefooted.quaker.png
   link: /dances/barefooted-quaker
   description: Lorem
   song: Black Joke
@@ -35,13 +35,13 @@
   song: Donkey Riding
   song_image: /assets/music/donkey-riding.png
 - name: "Milley's Bequest"
-  image: hankie.jpg
+  image: millie.capture.jpg
   link: milleys-bequest
   description: Lorem
   song: "Milley's Bequest"
   song_image: /assets/music/milleys-bequest.png
 - name: Ring-o-bells
-  image: hankie.jpg
+  image: ring-o-bells.png
   link: ring-o-bells
   description: Lorem
   song: Ring-o-Bells
@@ -52,7 +52,7 @@
   description: Lorem
   song: Shepherds Hey
 - name: "Sheriff's Ride"
-  image: hankie.jpg
+  image: sheriffs.ride.png
   link: sheriffs-ride
   description: Lorem
   song: "Sheriff's Ride"
@@ -70,7 +70,7 @@
   song: Nuts In May
   song_image:
 - name: Jean Boardman's Cakes
-  image: hankie.jpg
+  image: jean.boardmans.cakes.jpg
   link: jean-boardmans-cakes
   description: Lorem
   song: Pop-Pop
