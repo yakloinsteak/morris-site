@@ -84,14 +84,14 @@
   song: Drive the Cold Winter Away
   song_image: /assets/music/drive-the-cold-winter-away.png
 - name: Crossing the Moon
-  image: 
+  image:
   link: /dances/crossing-the-moon
   description: Lorem
   song: Old Peculiar
-  song_image: 
-  - name: Ex's and Oh's
-  image: 
+  song_image:
+- name: "Ex's and Oh's"
+  image:
   link: /dances/exs-and-ohs
   description: Lorem
-  song: Ex's and Oh's
-  song_image: 
+  song: "Ex's and Oh's"
+  song_image:
