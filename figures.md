@@ -19,10 +19,10 @@ Main Idea: Switch from set formation (2 vertical lines) to 2 horizontal lines, f
 
 Figure position:
 
-```					
+```
 
         4			8
-  
+
         2			6
 Up											Down
         1			5
