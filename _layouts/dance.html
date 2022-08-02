@@ -8,6 +8,29 @@ layout: compress
 
 <body>
     {% include navbar.html %}
+
+    <section class="top-videos">
+       <div class="container" id="page-section-top">
+           <div class="section">
+               {% for videos in page.videos %}
+                 <h3> {{ videos.title }} ({{ videos.date }}) </h3>
+                 {% if videos.link contains "youtube" %}
+                   <iframe width="560" height="315" src="{{ videos.link }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                 {% elsif videos.link contains "facebook" %}
+                   <a href="{{ videos.link }}">
+                     {{ videos.title }}
+                   </a>
+                 {% else %}
+                   <video width="560" height="315" controls='true'>
+                     <source src="{{ videos.link }}" type="video/mp4">
+                   </video>
+                 {% endif %}
+               {% endfor %}
+           </div>
+       </div>
+    </section>
+
+
     <section class="hero is-fullheight">
         <div class="hero-body">
             <div class="container" id="page-section">
