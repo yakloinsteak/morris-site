@@ -57,6 +57,8 @@
   description: Lorem
   song: "Sheriff's Ride"
   song_image: /assets/music/sheriffs-ride.png
+  videos:
+    - https://www.youtube.com/embed/eNCQFg-U9Os?list=PLwvo9nXgfB7YNLcNQX3hSz3YN2fsmk3hr
 - name: Vandals
   image: "Vandals2012.jpg"
   link: vandals
