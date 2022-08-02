@@ -32,14 +32,18 @@
                 <a class="navbar-item {% if page.layout == 'dances' %}is-active{% endif %}"
                     href="{{site.url}}{{site.baseurl}}/dances">DANCES</a>
 
+                <a class="navbar-item {% if page.title == 'Figures' %}is-active{% endif %}"
+                    href="{{site.url}}{{site.baseurl}}/figures">FIGURES</a>
+
                 <a class="navbar-item {% if page.title == 'videos' %}is-active{% endif %}"
                     href="{{site.url}}{{site.baseurl}}/videos">VIDEOS</a>
 
                 <a class="navbar-item {% if page.title == 'music' %}is-active{% endif %}"
                     href="{{site.url}}{{site.baseurl}}/music">MUSIC</a>
 
+                <!--
                 <a class="navbar-item {% if page.layout == 'news' %}is-active{% endif %}"
-                    href="{{site.url}}{{site.baseurl}}/news">NEWS</a>
+                href="{{site.url}}{{site.baseurl}}/news">NEWS</a> -->
                 {% include dropdown.html %}
             </div>
 

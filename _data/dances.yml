@@ -57,8 +57,6 @@
   description: Lorem
   song: "Sheriff's Ride"
   song_image: /assets/music/sheriffs-ride.png
-  videos:
-    - https://www.youtube.com/embed/eNCQFg-U9Os?list=PLwvo9nXgfB7YNLcNQX3hSz3YN2fsmk3hr
 - name: Vandals
   image: "Vandals2012.jpg"
   link: /dances/vandals
@@ -70,6 +68,18 @@
   #link: /dances/
   description:
   song: Nuts In May
+  song_image:
+- name: Crossing the Moon
+  image: hankie.jpg
+  link: /dances/crossing-the-moon
+  description: Lorem
+  song: Old Peculiar
+  song_image:
+- name: "Ex's and Oh's"
+  image: hankie.jpg
+  link: /dances/exs-and-ohs
+  description: Lorem
+  song: "Ex's and Oh's"
   song_image:
 - name: Jean Boardman's Cakes
   image: jean.boardmans.cakes.jpg
@@ -83,15 +93,3 @@
   description: Lorem
   song: Drive the Cold Winter Away
   song_image: /assets/music/drive-the-cold-winter-away.png
-- name: Crossing the Moon
-  image:
-  link: /dances/crossing-the-moon
-  description: Lorem
-  song: Old Peculiar
-  song_image:
-- name: "Ex's and Oh's"
-  image:
-  link: /dances/exs-and-ohs
-  description: Lorem
-  song: "Ex's and Oh's"
-  song_image:
