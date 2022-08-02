@@ -93,3 +93,15 @@
   description: Lorem
   song: Drive the Cold Winter Away
   song_image: /assets/music/drive-the-cold-winter-away.png
+- name: Off to California
+  image: hankie.jpg
+  link: /dances/off-to-california
+  description: Lorem
+  song: Off to California
+  song_image: 
+- name: Y Gaseg Eira
+  image: hankie.jpg
+  link: /dances/y-gaseg-eira
+  description: Lorem
+  song: Y Gaseg Eira
+  song_image: 
