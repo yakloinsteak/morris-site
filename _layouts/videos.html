@@ -17,6 +17,8 @@ layout: compress
                     </h1>
                     <hr class="has-background-black">
                     <div class="content is-marginless">
+                      {{ content }}
+
                       {% if page.video_file_name == "other_videos.yml" %}
                         {% assign video_list = site.data.other_videos %}
                       {% else %}
@@ -43,8 +45,6 @@ layout: compress
                           {% endif %}
                         {% endfor %}
                       {% endfor %}
-
-                      {{ content }}
                     </div>
                 </div>
             </div>

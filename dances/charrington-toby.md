@@ -1,7 +1,7 @@
 ---
-permalink: /dances/charington-toby
-dance_name: Charington Toby
-title: Charington Toby
+permalink: /dances/charrington-toby
+dance_name: Charrington Toby
+title: Charrington Toby
 song_name: Twin Sisters
 lead_in:
 key: G
