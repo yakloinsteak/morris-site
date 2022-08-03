@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Figures
 ---
-
-figures
 
 # First Set of Figures
 
@@ -10,7 +9,7 @@ Sherrif's Ride, Vandals of Hammerwich, Castlering, I-91, Crossing the Moon
 
 ## [Swagger Round](#swagger-round)
 
-Always starts after 2 notes for musician.  
+Always starts after 2 notes for musician.
 
 Main Idea: Both lines swagger in an oval, back to where they started.  Odd line (starting with 1) travels clockwise, first passing on the outside (when at the top of the  set) and then passing on the inside (when at bottom of the set).  Even line (starting with 2) travels counter-clockwise, first on inisde, then on outside.
 
@@ -58,7 +57,7 @@ Main Idea: Switch from set formation (2 vertical lines) to 2 horizontal lines, f
 
 Figure position:
 ```
-									
+
 
 	2			6
 
@@ -66,7 +65,7 @@ Figure position:
 Up					Down
         3			7
 
-        1			5	
+        1			5
 
 ```
 Heading down has several variations:
@@ -84,9 +83,9 @@ Main Idea: Everyone goes forward to pass their opposite by the right, pass back 
 
 Usually: 2 doublesteps to get around, 4 swingbacks, repeat (though the swingbacks the 2nd time are sometimes replaced by capers?)
 
-Castle Ring and I-91: 2 doublesteps to get around, look your partner in the eye, and galley away (top four galley up, bottom four galley down). 
+Castle Ring and I-91: 2 doublesteps to get around, look your partner in the eye, and galley away (top four galley up, bottom four galley down).
 
-Barefoot Quaker: one double step across to other side of set and around, second double step in place (in a line), third double step backwards (to form a line in the middle of the set), fourth double step in place, swing back to finish. 
+Barefoot Quaker: one double step across to other side of set and around, second double step in place (in a line), third double step backwards (to form a line in the middle of the set), fourth double step in place, swing back to finish.
 
 
 ## [Hey](#hey)
@@ -120,7 +119,7 @@ Ring O'Bells: sticks up and down and clash with single capers
 <br>
 <br>
 
-## Second Set of Figures
+# Second Set of Figures
 
 Milley’s Bequest, John Bartlett’s Fancy, Jean Boardman’s Cakes, Newtown Oak, Barefooted Quaker (With Crooked Figures)
 
@@ -178,4 +177,3 @@ Units are: 1 and 3, who do a back to back with 5 and 7; 2 and 4 do it with 6 and
 First half cross right shoulders, second half cross left (as in back to back).
 
 By half way through the music, the goal is to be back in place in nice lines.
-
