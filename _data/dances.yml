@@ -98,10 +98,22 @@
   link: /dances/off-to-california
   description: Lorem
   song: Off to California
-  song_image: 
+  song_image:
 - name: Y Gaseg Eira
   image: hankie.jpg
   link: /dances/y-gaseg-eira
   description: Lorem
   song: Y Gaseg Eira
-  song_image: 
+  song_image:
+- name: Paintbrush Jig
+  image: hankie.jpg
+  link: /dances/paintbrush-jig
+  description: Lorem
+  song:
+  song_image:
+- name: Newtown Oak
+  image: hankie.jpg
+  link: /dances/newtown-oak
+  description: Lorem
+  song:
+  song_image:
