@@ -65,7 +65,7 @@
   song_image: /assets/music/vandalls.png
 - name: Nuts In May
   image: nuts-in-may.jpg
-  #link: /dances/
+  link: /dances/nuts-in-may
   description:
   song: Nuts In May
   song_image:
