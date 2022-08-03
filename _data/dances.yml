@@ -40,11 +40,11 @@
   description: Lorem
   song: "Milley's Bequest"
   song_image: /assets/music/milleys-bequest.png
-- name: Ring-o-bells
+- name: Ring O'Bells
   image: ring-o-bells.png
   link: /dances/ring-o-bells
   description: Lorem
-  song: Ring-o-Bells
+  song: Ring O'Bells
   song_image: /assets/music/ring-o-bells.png
 - name: Shepherds Hey
   image: hankie.jpg
@@ -57,12 +57,12 @@
   description: Lorem
   song: "Sheriff's Ride"
   song_image: /assets/music/sheriffs-ride.png
-- name: Vandals
-  image: "Vandals2012.jpg"
-  link: /dances/vandals
+- name: Vandalls of Hammerwich
+  image: "Vandalls2012.jpg"
+  link: /dances/vandalls-of-hammerwich
   description: Lorem
-  song: Vandals
-  song_image: /assets/music/vandals.png
+  song: Vandalls of Hammerwich
+  song_image: /assets/music/vandalls.png
 - name: Nuts In May
   image: nuts-in-may.jpg
   #link: /dances/

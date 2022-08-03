@@ -1,7 +1,7 @@
 ---
 permalink: /dances/ring-o-bells
-title: Ring-o-bells
-song_name: Ring-o-bells
+title: Ring O'Bells
+song_name: Ring O'Bells
 lead_in: Two beats
 key: G
 sequence: "&#x1D106 AB &#x1D107 B"

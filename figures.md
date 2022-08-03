@@ -34,7 +34,7 @@ Heading up has several variations:
 
 Sheriff’s Ride: 4 doublesteps, 2 closed sidesteps (first left, then right), swingbacks
 
-Vandals: 4 doublesteps, swingbacks
+Vandalls: 4 doublesteps, swingbacks
 
 Castle Ring + I-91 : 4 doublesteps, swingbacks, galley up
 
