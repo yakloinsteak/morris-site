@@ -121,7 +121,7 @@ Ring O'Bells: sticks up and down and clash with single capers
 
 # Second Set of Figures
 
-Milley’s Bequest, John Bartlett’s Fancy, Jean Boardman’s Cakes, Newtown Oak, Barefooted Quaker (With Crooked Figures)
+Milley’s Bequest, John Bartlett’s Fancy, Jean Boardman’s Cakes, Newtowne Oak, Barefooted Quaker (With Crooked Figures)
 
 
 ## [Step in Line](#step-in-line)
@@ -165,7 +165,7 @@ John Bartlett's Fancy: ends with double step with pull down
 
 Millie's Bequest: ends with single capers and self clash
 
-Newtown Oak: ?
+Newtowne Oak: ?
 
 Barefooted Quaker: First half: 2 extra double steps in place before corner crossings.  Second half: circle counterclockwise half way coming to a tight circle (2 double steps).  2 double steps in place.  Everybody crosses at once (by left shoulder) to go home, ending with a pull down.
 
