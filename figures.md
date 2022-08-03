@@ -126,6 +126,8 @@ Milley’s Bequest, John Bartlett’s Fancy, Jean Boardman’s Cakes, Newtown Oa
 
 ## [Step in Line](#step-in-line)
 
+Always starts after once to yourself from musicians
+
 2 double steps in place, galley out (toward outside foot) to end facing backward.
 
 2 double steps in place, galley out to end facing forward, then use capers after galley to return to set.
@@ -177,3 +179,13 @@ Units are: 1 and 3, who do a back to back with 5 and 7; 2 and 4 do it with 6 and
 First half cross right shoulders, second half cross left (as in back to back).
 
 By half way through the music, the goal is to be back in place in nice lines.
+
+# [Castlering Foot](#castlering-foot)
+
+One way to think of this is your "away" foot (the direction you galley away).  Up for the 4 upmost dancers, down for the 4 downmost dancers.
+```
+1: left		2: right
+3: left		4: right
+5: right	6: left
+7: right	8: left
+```
