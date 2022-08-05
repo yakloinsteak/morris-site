@@ -2,6 +2,18 @@
 permalink: /dances/shepherds-hey
 title: Shepherds Hey
 ---
+## History
+Traditional
+
+## Video
+
+<video width='90%' controls='true'>
+  <source src="https://www.youtube.com/watch?v=HHLHdhYx06E&t=1s" type="video/mp4">
+</video>
+
+## Structure
+
+3 person jig.  Hankies.
 
 All the videos we've seen have been slightly different than what follows.
 This version matches the Green Man Morris version from Tony's videos and seems
