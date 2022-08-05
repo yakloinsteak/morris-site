@@ -18,8 +18,69 @@ figures:
     - Down and out
 dance_origin:
 ---
+## History
+Traditional.  According to [tunearch.org](https://tunearch.org/wiki/Annotation:Ring_o%27_Bells) the name is in honor of a Lichfield "public house".
 
-## General Notes
+## Videos
+
+<video width='90%' controls='true'>
+  <source src="https://www.youtube.com/watch?v=3tEPboSd6T0&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=12" type="video/mp4">
+</video>
+
+
+## Structure
+
+2 sticks, held loosely down, kind of like divining rods.  Starts with two notes.  Single steps.  All figures start with R foot.
+
+All figures end with a fancy stick self-clash on the last 5 beats: sticks go up, then down (beat 1), then back up (beat 2), then self-clash (beat 3), then down
+
+**Dance Around**: Like [swagger round](/figures#swagger-round), but bigger, faster, and with single steps/skips instead of swaggers.  Ends with fancy self-clash.
+
+**Chorus**
+
+**[Back to Back](/figures#back-to-back)**: with single steps, ends with fancy self-clash.
+
+**Chorus**
+
+**[Doubling Up](/figures#doubling-up)**: with single steps, ends with fancy self-clash.
+
+**Chorus**
+
+**[Hey](/figures#hey)**: with single steps (2 single steps for each part; e.g. first corners cross with 2 single steps), ends with fancy self-clash
+
+**Chorus**
+
+**Heading Up and Out**:
+
+4 single steps: go to [heading up](/figures#heading-up) position
+
+4 swingbacks: go back to place
+
+single step to heading out position, ends with fancy self-clash with all 8 in a line facing up.
+
+Heading out position:
+
+```
+          Up
+5   6  1  2  3  4  7  8
+
+```
+One way to remember this position is this: 1 and 2 move a little left, then it alternates in pairs: 3 and 4 go right, 5 and 6 left, 7 and 8 right.
+
+Note: the article on Lichfield seems to describe a different heading out position for Nuts in May.  Are they really different?  Is one better than the other?
+
+## Chorus
+
+Main Idea: Ninja Sticking, Plain Capers to a Circle, Circle Sticking
+
+**Ninja Sticking**: Hold sticks behind the back like ninja swords.  Clash to right diagonal with right stick, across with left stick, left diagonal with right stick, across with left stick, then repeat (8 total clashes).  (R stick on diagonals, L across)
+
+**Plain Capers to a Circle**: 4 plain circles, turning as individuals and forming a circle (mostly this means ends move out a bit).  Which directing do you turn?  Away, over [castlering](/figures#castlering-foot) shoulder. 
+
+**Circle Sticking**: Hold left stick horizontally out toward L-hand neighbor, use right stick to clash 3 times on R-hand neighbor's stick.  Last beat: step with left foot to come back to set (and ready to start next figure on R foot). 
+
+
+## Music
 
 * Two beat intro
 * There is a double AA for the hey followed by double BB to the end.
