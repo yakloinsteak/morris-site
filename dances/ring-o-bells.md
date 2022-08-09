@@ -17,17 +17,15 @@ figures:
     - Doubling up
     - Down and out
 dance_origin:
+history: |
+  Traditional.  According to
+  [tunearch.org](https://tunearch.org/wiki/Annotation:Ring_o%27_Bells) the name
+  is in honor of a Lichfield "public house".
+videos:
+  - title: Ring O'Bells Practice
+    link: https://www.youtube.com/embed/3tEPboSd6T0
+    date: 2019
 ---
-## History
-Traditional.  According to [tunearch.org](https://tunearch.org/wiki/Annotation:Ring_o%27_Bells) the name is in honor of a Lichfield "public house".
-
-## Videos
-
-<video width='90%' controls='true'>
-  <source src="https://www.youtube.com/watch?v=3tEPboSd6T0&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=12" type="video/mp4">
-</video>
-
-
 ## Structure
 
 2 sticks, held loosely down, kind of like divining rods.  Starts with two notes.  Single steps.  All figures start with R foot.
@@ -75,9 +73,9 @@ Main Idea: Ninja Sticking, Plain Capers to a Circle, Circle Sticking
 
 **Ninja Sticking**: Hold sticks behind the back like ninja swords.  Clash to right diagonal with right stick, across with left stick, left diagonal with right stick, across with left stick, then repeat (8 total clashes).  (R stick on diagonals, L across)
 
-**Plain Capers to a Circle**: 4 plain circles, turning as individuals and forming a circle (mostly this means ends move out a bit).  Which directing do you turn?  Away, over [castlering](/figures#castlering-foot) shoulder. 
+**Plain Capers to a Circle**: 4 plain circles, turning as individuals and forming a circle (mostly this means ends move out a bit).  Which directing do you turn?  Away, over [castlering](/figures#castlering-foot) shoulder.
 
-**Circle Sticking**: Hold left stick horizontally out toward L-hand neighbor, use right stick to clash 3 times on R-hand neighbor's stick.  Last beat: step with left foot to come back to set (and ready to start next figure on R foot). 
+**Circle Sticking**: Hold left stick horizontally out toward L-hand neighbor, use right stick to clash 3 times on R-hand neighbor's stick.  Last beat: step with left foot to come back to set (and ready to start next figure on R foot).
 
 
 ## Music
