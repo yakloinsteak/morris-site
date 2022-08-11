@@ -1,12 +1,14 @@
 ---
 permalink: /dances/max-headroom
 title: Max Headroom
+history: Created by Windham, early in its history, when they only had 4 at practice one day.  A 4 person version of Newtowne Oak.  Named for the practice space where it was created, Headroom Stages, and its connection to the 1980's TV character.  When Crossing the Moon was created (2019ish), the dance was adapted to include the crossing galley with half-beat clash at the end of the Hey.  There is evidence that early in its history, the Max Rounds figure came after doubling up, but that at some point this changed.  Another possible evolution of the dance: how do the figures end? Scissors?  Galley?  Galley which way?  Plain capers?  Below is the current consensus, but does not necessarily reflect the original.
+videos:
+  - title: Max Headroom at the Puntey General Store
+    link: https://www.youtube.com/watch?v=KWnUuKV76Vg&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=4
+    date: 2011
+  - title: Max Headroom, dancing with Putney Mountain Morris
+    link: https://www.youtube.com/watch?v=B1GlpEzv23Y&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=21
 ---
-## History
-
-Created by Windham, early in its history, when they only had 4 at practice one day.  A 4 person version of Newtowne Oak.  Named for the practice space where it was created, Headroom Stages, and its connection to the 1980's TV character.  When Crossing the Moon was created (2019ish), the dance was adapted to include the crossing galley with half-beat clash at the end of the Hey.  There is evidence that early in its history, the Max Rounds figure came after doubling up, but that at some point this changed.  Another possible evolution of the dance: how do the figures end? Scissors?  Galley?  Galley which way?  Plain capers?  Below is the current consensus, but does not necessarily reflect the original.
-
-## Videos
 
 ## Structure
 
