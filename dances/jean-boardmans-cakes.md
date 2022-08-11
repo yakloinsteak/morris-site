@@ -7,7 +7,7 @@ title: "Jean Boardman's Cakes"
 
 
 ## History
-Createdby Marlboro Morris and Sword.  Named for Jean Boardman, proprietress of the Whestone Inn, Marlboro, VT and the delicious cakes she would offer to Morris dancers when they danced a stand at the inn.  Windham, too, has been grateful to experience Jean's generosity.
+Created by the men's team of Marlboro Morris and Sword.  Named for Jean Boardman, proprietress of the Whestone Inn, Marlboro, VT and the delicious cakes she would offer to Morris dancers when they danced a stand at the inn.  Windham, too, has been grateful to experience Jean's generosity.
 
 ## Video
 
