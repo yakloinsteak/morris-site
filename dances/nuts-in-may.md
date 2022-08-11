@@ -1,20 +1,15 @@
 ---
 permalink: /dances/nuts-in-may
 title: Nuts in May
+history: Traditional
+videos:
+  - title: Nuts in May Performed by Marlboro Morris and Sword
+    link: https://www.youtube.com/watch?v=Mc_E2FZv5N0&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=31
+    date: 1982
+  - title: Nuts in May performed by Shirtless Marlboro Morris and Sword
+    link: https://www.youtube.com/watch?v=xglkx1tqD_g&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=32
+    date: 1982
 ---
-## History
-
-Traditional.  
-
-## Videos
-
-<video width='90%' controls='true'>
-  <source src="https://www.youtube.com/watch?v=Mc_E2FZv5N0&t=2s">
-</video>
-
-<video width='90%' controls='true'>
-  <source src="https://www.youtube.com/watch?v=xglkx1tqD_g">
-</video>
 
 ## Structure
 
