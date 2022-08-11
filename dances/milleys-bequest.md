@@ -1,11 +1,12 @@
 ---
 permalink: /dances/milleys-bequest
 title: "Milley's Bequest"
+history: Traditional.  Acoording to [tunearch.org](https://tunearch.org/wiki/Annotation:Milley%27s_Bequest), the title is a reference to a bequest made in the fifteenth century by Cannon Thomas Milley. Lichfield had, since 1424, a women's almshouse near Lichfield Catherdral for the care of the poor and infirm. In 1504 Milley re-endowed it "with tenements and lands producing, together with subsequent benefactions, an income of about ₤370, for the maintenance of fifteen aged women, who receive each a weekly allowance of seventeen shillings and sixpence...a dispensary, supported by subscription, was established in 1829" [Samuel Lewis, A Topographical Dictionary of England, 1833]. The building is locally known as Dr. Milley's Hospital, and is still employed (albeit much renovated) as a charity for needy women.
+videos: 
+  - title: Milley's Bequest at Practice
+    link: https://www.youtube.com/watch?v=ErpDAriJchs&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=14
+    date: 2019
 ---
-# History
-Traditional.  Acoording to [tunearch.org](https://tunearch.org/wiki/Annotation:Milley%27s_Bequest), the title is a reference to a bequest made in the fifteenth century by Cannon Thomas Milley. Lichfield had, since 1424, a women's almshouse near Lichfield Catherdral for the care of the poor and infirm. In 1504 Milley re-endowed it "with tenements and lands producing, together with subsequent benefactions, an income of about ₤370, for the maintenance of fifteen aged women, who receive each a weekly allowance of seventeen shillings and sixpence...a dispensary, supported by subscription, was established in 1829" [Samuel Lewis, A Topographical Dictionary of England, 1833]. The building is locally known as Dr. Milley's Hospital, and is still employed (albeit much renovated) as a charity for needy women.
-
-## Video
 
 ## Structure
 
