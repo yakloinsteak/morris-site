@@ -2,6 +2,14 @@
 permalink: /dances/barrows-house
 dance_name: Barrow's House
 title: Barrow's House
+history: Written by the men's team of Marlboro Morris and Sword.  Named after [Barrows House Inn and Restaurant](https://www.barrowshouse.com/) in Dorset, VT, where the dance was created.
+videos:
+  - title: First Virtuale, distanced at Marlboro College
+    link: https://www.youtube.com/watch?v=dY9KbEAivkw
+    date: 2020
+  - title: Second Virtuale, at Retreat Meadows
+    link: https://www.youtube.com/watch?v=uKYRIYp4YaE&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=24
+    date: 2021
 song_name: Over the Hills and Far Away
 lead_in: Once to self
 key: G
@@ -13,15 +21,6 @@ figures:
     - Castlering Caper
 dance_origin:
 ---
-## History
-Written by Marlboro Morris and Sword.  Named after [Barrows House Inn and Restaurant](https://www.barrowshouse.com/) in Dorset, VT, where the dance was created.
-
-## Videos
-
-Virtuale #1 video, distanced with 2 sets at Marlboro College
-
-Virtuale #2 video, on shore of Retreat Meadows
-
 ## Structure
 Main Idea: Three person jig in a triangle (pointed up: one in front, two in back). Rotate clockwise after each part. Capers
 progress counter-clockwise.
