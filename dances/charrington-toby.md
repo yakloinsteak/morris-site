@@ -2,6 +2,11 @@
 permalink: /dances/charrington-toby
 dance_name: Charrington Toby
 title: Charrington Toby
+history: Written by the men's team of Marlboro Morris and Sword, in the van on their way to Toronto ale with 5 dancers, needing a dance for 5.  Named for the bottle caps of the beer they were drinking, which they used to design the figures.  New starting location added somewhere around 2019-2020 (it was in evidence in a 2020 Virtuale video).
+videos:
+  - title: Distanced Charrington Toby, at Marlboro College
+    link: https://www.youtube.com/watch?v=1oSR8dxQli8&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=22
+    date: 2020
 song_name: Twin Sisters
 lead_in:
 key: G
@@ -13,13 +18,6 @@ figures:
     - circle
 dance_origin:
 ---
-
-## History
-
-Written by Marlboro Morris and Sword, in the van on their way to Toronto ale with 5 dancers, needing a dance for 5.  Named for the bottle caps of the beer they were drinking, which they used to design the figures.  New starting location added somewhere around 2019-2020 (it was in evidence in a 2020 Virtuale video).
-
-## Videos
-
 ## Structure
 
 Main Idea: Chorus is “heading up”; Figures are V, X, O with caper progression.
