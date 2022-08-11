@@ -2,6 +2,14 @@
 permalink: /dances/castlering
 dance_name: Castlering
 title: Castlering
+history: Traditional. Named for an iron age hill fort near Lichfield.
+videos:
+  - title: Marlboro Morris Ale, Castlering with Will and Tony toast
+    link: https://www.youtube.com/watch?v=jU0FSMN6lsM&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=2
+    date: 2012
+  - title: Practice
+    link: https://www.youtube.com/watch?v=R2nvniHI9KI&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=16
+    date: 2019
 song_name: Bobby Shafto
 lead_in: Two notes
 key: G
@@ -12,11 +20,6 @@ figures:
     - heading down
 dance_origin:
 ---
-## History
-Traditional. Name for an iron age hill fort near Lichfield.
-
-## Videos
-
 ## Structure
 
 **[Swagger Round](/figures#swagger-round)**:
