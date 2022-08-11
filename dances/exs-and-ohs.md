@@ -2,12 +2,13 @@
 videos:
   - title: Video 1
     link: https://assets.windham.club/videos/exs_and_ohs.0.mp4
+    date: 2019
   - title: Video 2
     link: https://assets.windham.club/videos/exs_and_ohs.1.mp4
----
-## History
+    date: 2019
+history: Created late at night at Windham's 2019 retreat, inspired by the connection between the song and the figures of Charrington Toby.  The choreography included the moment when Arthur Davis, who everyone thought was asleep, offered a critical suggestion: "Two Scissor Capers!"
 
-Created late at night at Windham's 2019 retreat, inspired by the connection between the song and the figures of Charrington Toby.  The choreography included the moment when Arthur Davis, who everyone thought was asleep, offered a critical suggestion: "Two Scissor Capers!"
+---
 
 ## Structure
 
