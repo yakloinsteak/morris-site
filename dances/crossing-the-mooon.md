@@ -1,11 +1,12 @@
 ---
 permalink: /dances/crossing-the-moon
 title: Crossing the Moon
+history: Windham, 2017-2018 (debuted May 2018).  Early intent was to create a dance similar to I-91/Castelring, but with sticks (like how Vandalls is the “stick” version of Sheriffs Ride). Created collaboratively. Early conversations used pieces from a game called “Balancing Moon.”  Including a reference in the name alludes to the origin story of Charrington Toby.  The dance continued to be developed collaboratively over the course of the season.  Highlights included a “capers with sticks” workshop where many people brainstormed possible ways to do capers with sticks and we came to consensus (or near consensus) on the best methods.  Another key moment was the addition of the clashes on the half-beats of the galleys, which made its way into at least one other dance: Max Headroom, which now often includes a galley with clash at the end of the Hey
+videos:
+  - title: Crossing the Moon debuts at Marlboro Morris Ale
+    link: https://www.youtube.com/watch?v=OERjZnbPQbY&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=15
+    date: 2018
 ---
-## History
-Windham, 2017-2018 (debuted May 2018).  Early intent was to create a dance similar to I-91/Castelring, but with sticks (like how Vandalls is the “stick” version of Sheriffs Ride). Created collaboratively. Early conversations used pieces from a game called “Balancing Moon.”  Including a reference in the name alludes to the origin story of Charrington Toby.  The dance continued to be developed collaboratively over the course of the season.  Highlights included a “capers with sticks” workshop where many people brainstormed possible ways to do capers with sticks and we came to consensus (or near consensus) on the best methods.  Another key moment was the addition of the clashes on the half-beats of the galleys, which made its way into at least one other dance: Max Headroom, which now often includes a galley with clash at the end of the Hey
-
-## Videos
 
 ## Structure
 
