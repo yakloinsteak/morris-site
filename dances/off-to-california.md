@@ -1,14 +1,12 @@
 ---
 permalink: /dances/off-to-california
 title: Off to California
+history: Written by Ted Hodapp of Minnesota Traditional Morris, who shared an instructional video in 2008.  It was discovered by Windham in 2020 during the COVID-19 pandemic, and started being incorporated into the repertoire beginning summer 2022.  Some styling elements are different between Windham and Minnesota Traditional Morris, most notably in the capers.
+videos: 
+  - title: Minnesota Traditional Morris teach Off to California
+    link: https://www.youtube.com/watch?v=pbt82DhcE44
+    date: 2008
 ---
-## History
-
-Written by Ted Hodapp of Minnesota Traditional Morris, who shared an instructional video  in 2008.  It was discovered by Windham in 2020 during the COVID-19 pandemic, and started being incorporated into the repertoire beginning summer 2022.  Some styling elements are different between Windham and Minnesota Traditional Morris, most notably in the capers.
-
-## Video
-
-https://www.youtube.com/watch?v=pbt82DhcE44
 
 ## Structure
 
