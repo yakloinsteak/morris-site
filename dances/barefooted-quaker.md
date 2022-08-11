@@ -2,6 +2,11 @@
 permalink: /dances/barefooted-quaker
 dance_name: Barefooted Quaker
 title: Barefooted Quaker
+videos:
+  - title: Barefooted Quaker Practice
+  - link: https://www.youtube.com/watch?v=sBVz_amLgf0&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=11
+  - date: 2019
+history: Traditional.  The name seems to be a reference to [George Fox's shoeless denunciation of Lichfield in 1651](https://staffsquakers.org/history-of-quakers-in-staffordshire/george-fox-in-lichfield-in-1651/).
 lead_in: Once to self
 key: G
 sequence: "A &#x1D106 AAB- &#x1D107"
