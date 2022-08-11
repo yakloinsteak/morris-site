@@ -1,16 +1,12 @@
 ---
 permalink: /dances/shepherds-hey
 title: Shepherds Hey
+history: Traditional
+Videos: 
+  - title: Some other people dancing Shepherd's Hey
+    link: https://www.youtube.com/watch?v=HHLHdhYx06E&t=1s
+    date: 2009?
 ---
-## History
-Traditional
-
-## Video
-
-<video width='90%' controls='true'>
-  <source src="https://www.youtube.com/watch?v=HHLHdhYx06E&t=1s" type="video/mp4">
-</video>
-
 ## Structure
 
 3 person jig.  Hankies.
