@@ -1,7 +1,7 @@
 ---
 permalink: /dances/barrows-house
-dance_name: Barrow's House
-title: Barrow's House
+dance_name: Barrows House
+title: Barrows House
 history: Written by the men's team of Marlboro Morris and Sword.  Named after [Barrows House Inn and Restaurant](https://www.barrowshouse.com/) in Dorset, VT, where the dance was created.
 videos:
   - title: First Virtuale, distanced at Marlboro College
