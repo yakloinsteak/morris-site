@@ -6,8 +6,11 @@ videos:
   - title: Video 2
     link: https://assets.windham.club/videos/exs_and_ohs.1.mp4
     date: 2019
-history: Created late at night at Windham's 2019 retreat, inspired by the connection between the song and the figures of Charrington Toby.  The choreography included the moment when Arthur Davis, who everyone thought was asleep, offered a critical suggestion: "Two Scissor Capers!"
-
+history: |
+  Created late at night at Windham's 2019 retreat, inspired by the connection
+  between the song and the figures of Charrington Toby.  The choreography
+  included the moment when Arthur Davis, who everyone thought was asleep,
+  offered a critical suggestion: "Two Scissor Capers!"
 ---
 
 ## Structure
@@ -58,7 +61,7 @@ Fig. 3: O, doublestep/sidestep/swingback
 Chorus 3: O, Castlering
 2:59 “xs” doublesteps back out to circle
 3:05 “they want” sidesteps
-3:09 “they won’t” all Castlering, swing it x5 
+3:09 “they won’t” all Castlering, swing it x5
 
 # Notes
 

@@ -1,7 +1,18 @@
 ---
 permalink: /dances/vandalls-of-hammerwich
 title: Vandalls of Hammerwich
-history: Traditional.  Here is one explanation for the name (from [tunearch.org](https://tunearch.org/wiki/Annotation:Vandalls_of_Hammerwich_(1))): Hammerwich is a nearby village, situated on a hill about three miles south-west of Lichfield once served by both canal and railway. The name ‘Hammerwich’ means a place by a hill from the Anglo-Saxon words ‘wic’ meaning ‘place’ and hammer meaning ‘hill’ [1] In the Domesday Book of 1086 it was called Humeruuich. Local lore gives that the dance refers to an incident in the early middle Ages when some of the Hammerwich inhabitants set fire to woods in Cannock Forest, an event mentioned in the Staffordshire Pleas of the Forest (14th, Jan., 1262): "...a certain heath was burnt by the vills of Hamerwich, to the injury of the King's game..."
+history: |
+  Traditional.  Here is one explanation for the name (from
+  [tunearch.org](https://tunearch.org/wiki/Annotation:Vandalls_of_Hammerwich_(1))):
+  Hammerwich is a nearby village, situated on a hill about three miles
+  south-west of Lichfield once served by both canal and railway. The name
+  ‘Hammerwich’ means a place by a hill from the Anglo-Saxon words ‘wic’ meaning
+  ‘place’ and hammer meaning ‘hill’ [1] In the Domesday Book of 1086 it was
+  called Humeruuich. Local lore gives that the dance refers to an incident in
+  the early middle Ages when some of the Hammerwich inhabitants set fire to
+  woods in Cannock Forest, an event mentioned in the Staffordshire Pleas of the
+  Forest (14th, Jan., 1262): "...a certain heath was burnt by the vills of
+  Hamerwich, to the injury of the King's game..."
 videos:
   - title: Vandalls of Hammerwich at Putney General Store
     link: https://www.youtube.com/watch?v=uoYOd5f3KxY&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=5
