@@ -4,10 +4,10 @@ title: Nuts in May
 history: Traditional
 videos:
   - title: Nuts in May Performed by Marlboro Morris and Sword
-    link: https://www.youtube.com/watch?v=Mc_E2FZv5N0&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=31
+    link: https://www.youtube.com/embed/Mc_E2FZv5N0
     date: 1982
   - title: Nuts in May performed by Shirtless Marlboro Morris and Sword
-    link: https://www.youtube.com/watch?v=xglkx1tqD_g&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=32
+    link: https://www.youtube.com/embed/xglkx1tqD_g
     date: 1982
 ---
 
@@ -15,7 +15,7 @@ videos:
 
 Main Idea: Introduction, Fight Sequences, Conclusion
 
-Starts with sticks.  
+Starts with sticks.
 
 No figures are normal.
 
@@ -25,9 +25,9 @@ In some details, there is uncertanity, Windham has not danced this enough to hav
 
 Starts with musicians playing once to themselves.  At end of last time through, everyone scissor capers (as in Max Headroom)
 
-**[Swagger Round](/figures#swagger-round)**: Slow.  The whole thing uses the music twice.  First time through the music, everyone will have swaggered half way to form a new set facing down, music ends with scissor caper.  Second times though the music, finish the swagger round to come back to place, scissor caper. 
+**[Swagger Round](/figures#swagger-round)**: Slow.  The whole thing uses the music twice.  First time through the music, everyone will have swaggered half way to form a new set facing down, music ends with scissor caper.  Second times though the music, finish the swagger round to come back to place, scissor caper.
 
-**Step in Place**: Twice through the music, each time double-stepping in place, scissor caper at end.  First time: During scissor capes 1-4 turn around to face 5-8, so everyone is facing in.  How do we turn?  I suggest out, over [castlering](/figures#castlering-foot) shoulder.  
+**Step in Place**: Twice through the music, each time double-stepping in place, scissor caper at end.  First time: During scissor capes 1-4 turn around to face 5-8, so everyone is facing in.  How do we turn?  I suggest out, over [castlering](/figures#castlering-foot) shoulder.
 
 **Music Switches Here**
 
@@ -37,9 +37,9 @@ Starts with musicians playing once to themselves.  At end of last time through, 
 
 **First fight**:
 
-3-6 go first, pairing off 3&5 and 4&6.   They do the basic fight pattern (they will start close to each other so there's not much "approaching" on the Lichfields).  * Brace: step R toward each other.  
+3-6 go first, pairing off 3&5 and 4&6.   They do the basic fight pattern (they will start close to each other so there's not much "approaching" on the Lichfields).  * Brace: step R toward each other.
 * Clash: hit sticks, pressing sticks together for a full beat.  *
-* Jump: Jump/push each other back.  
+* Jump: Jump/push each other back.
 * Land, and get rid of stick
 Then they walk back to the ends of the set while the other pairs do the fight pattern.
 
@@ -69,7 +69,7 @@ After last fight, get back in set and do 2 Lichfield capers.
 
 **[Heading Up](/figures#heading-up)**: 4 double steps, 4 swingbacks, scissor caper (facing in or facing up?  traditions differ; we should decide)
 
-**Heading Out**: 
+**Heading Out**:
 
 variation 1 (as done by Marlboro Morris and Sword in existing videos): go to heading out position from Ring O'Bells, double stepping and finishing with scissor caper:
 ```

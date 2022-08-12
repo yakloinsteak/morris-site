@@ -16,7 +16,7 @@ history: |
   at the end of the Hey
 videos:
   - title: Crossing the Moon debuts at Marlboro Morris Ale
-    link: https://www.youtube.com/watch?v=OERjZnbPQbY&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=15
+    link: https://www.youtube.com/embed/OERjZnbPQbY
     date: 2018
 ---
 

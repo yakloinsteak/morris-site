@@ -15,7 +15,7 @@ history: |
   Hamerwich, to the injury of the King's game..."
 videos:
   - title: Vandalls of Hammerwich at Putney General Store
-    link: https://www.youtube.com/watch?v=uoYOd5f3KxY&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=5
+    link: https://www.youtube.com/embed/uoYOd5f3KxY
     date: 2011
 ---
 

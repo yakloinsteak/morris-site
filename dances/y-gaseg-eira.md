@@ -2,9 +2,9 @@
 permalink: /dances/y-gaseg-eira
 title: Y Gaseg Eira
 history: From the Welsh Nantgarw tradition.  Windham learned of the tradition and dance in 2022, and began learning the dance based on [Cardiff Morris's 2014 video](https://www.youtube.com/watch?v=xRNFF0_Jqok).  The name of the dance (which sometimes appears with "Caseg") means "The Snow Mare," which is apparently a Welsh idiom for a large snowball.  The "scooping" figures in the dance are reminiscent of creating a large snowball, and the cross-body hanky showing is reminiscent of hugging oneself in the cold.  Windham was motivated to learn Nantgarw in part because of possible connections to to Lichfield, including 8 dancer sets.  What we know about all this comes from [Cardiff Morris](http://www.cardiffmorris.org/Nantgarw.htm) and [wikipedia](https://en.wikipedia.org/wiki/Morris_dance#Morris_Dancing_in_Wales).  It is worth noting that, accordinng to Wikipedia, "There are no hard and fast rules as to which Morris sides can perform dances from a tradition, but the original Nantgarw dance, Y Gaseg Eira, is considered to be a dance for the Welsh sides."
-videos: 
+videos:
   - title: Cardiff Morris dacing Y Gaseg Eira
-    link: https://www.youtube.com/watch?v=xRNFF0_Jqok
+    link: https://www.youtube.com/embed/xRNFF0_Jqok
     date: 2014
 ---
 ## Structure

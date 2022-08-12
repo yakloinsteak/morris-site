@@ -4,7 +4,7 @@ title: "John Bartlett's Fancy"
 history: Created by the men’s team of Marlboro Morris and Sword.  Named for John Bartlett, personality (dean?) at  Marlboro College.
 videos:
   - title: Minnesota Traditional Morris dance John Bartlett's Fancy
-  - link: https://www.youtube.com/watch?v=ZsCJfmL9Rzk&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=34
+  - link: https://www.youtube.com/embed/ZsCJfmL9Rzk
   - date: 2016
 ---
 

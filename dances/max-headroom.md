@@ -14,10 +14,10 @@ history: |
   necessarily reflect the original.
 videos:
   - title: Max Headroom at the Puntey General Store
-    link: https://www.youtube.com/watch?v=KWnUuKV76Vg&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=4
+    link: https://www.youtube.com/embed/KWnUuKV76Vg
     date: 2011
   - title: Max Headroom, dancing with Putney Mountain Morris
-    link: https://www.youtube.com/watch?v=B1GlpEzv23Y&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=21
+    link: https://www.youtube.com/embed/B1GlpEzv23Y
 ---
 
 ## Structure

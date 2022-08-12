@@ -2,9 +2,9 @@
 permalink: /dances/shepherds-hey
 title: Shepherds Hey
 history: Traditional
-Videos: 
+Videos:
   - title: Some other people dancing Shepherd's Hey
-    link: https://www.youtube.com/watch?v=HHLHdhYx06E&t=1s
+    link: https://www.youtube.com/embed/HHLHdhYx06E
     date: 2009?
 ---
 ## Structure

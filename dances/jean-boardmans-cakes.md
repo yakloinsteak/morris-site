@@ -4,10 +4,9 @@ title: "Jean Boardman's Cakes"
 history: Created by the men's team of Marlboro Morris and Sword.  Named for Jean Boardman, proprietress of the Whestone Inn, Marlboro, VT and the delicious cakes she would offer to Morris dancers when they danced a stand at the inn.  Windham, too, has been grateful to experience Jean's generosity.
 videos:
   - title: Jean Boardman's Cakes performed at the Marlboro Morris Ale
-    #link: https://www.youtube.com/watch?v=g3MmZmpf27M&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=19
     link: https://www.youtube.com/embed/g3MmZmpf27M
   - title: Jean Boardman's Cakes at practice
-    link: https://www.youtube.com/watch?v=nutcRImRHfw&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=13
+    link: https://www.youtube.com/embed/nutcRImRHfw
     date: 2019
 ---
 

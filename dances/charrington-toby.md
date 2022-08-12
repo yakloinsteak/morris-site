@@ -5,7 +5,7 @@ title: Charrington Toby
 history: Written by the men's team of Marlboro Morris and Sword, in the van on their way to Toronto ale with 5 dancers, needing a dance for 5.  Named for the bottle caps of the beer they were drinking, which they used to design the figures.  New starting location added somewhere around 2019-2020 (it was in evidence in a 2020 Virtuale video).
 videos:
   - title: Distanced Charrington Toby, at Marlboro College
-    link: https://www.youtube.com/watch?v=1oSR8dxQli8&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=22
+    link: https://www.youtube.com/embed/1oSR8dxQli8
     date: 2020
 song_name: Twin Sisters
 lead_in:
@@ -28,7 +28,7 @@ Starts in a line of 5 across, in the back of the dance space.  Starts right foot
 
 **V Figure**: 4 Double steps, Lichfield caper, galley right
 
-On first double step, center moves up 2 “levels” to form the tip of the V.  Middles (positions 2 and 4) move up one “level”, and ends (1 and 5) stay where they are.  
+On first double step, center moves up 2 “levels” to form the tip of the V.  Middles (positions 2 and 4) move up one “level”, and ends (1 and 5) stay where they are.
 
 **Chorus**: Use first double step to move back to single line in the middle “level” (where 2 and 4 were during the V).
 

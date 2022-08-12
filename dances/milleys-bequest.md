@@ -2,9 +2,9 @@
 permalink: /dances/milleys-bequest
 title: "Milley's Bequest"
 history: Traditional.  Acoording to [tunearch.org](https://tunearch.org/wiki/Annotation:Milley%27s_Bequest), the title is a reference to a bequest made in the fifteenth century by Cannon Thomas Milley. Lichfield had, since 1424, a women's almshouse near Lichfield Catherdral for the care of the poor and infirm. In 1504 Milley re-endowed it "with tenements and lands producing, together with subsequent benefactions, an income of about ₤370, for the maintenance of fifteen aged women, who receive each a weekly allowance of seventeen shillings and sixpence...a dispensary, supported by subscription, was established in 1829" [Samuel Lewis, A Topographical Dictionary of England, 1833]. The building is locally known as Dr. Milley's Hospital, and is still employed (albeit much renovated) as a charity for needy women.
-videos: 
+videos:
   - title: Milley's Bequest at Practice
-    link: https://www.youtube.com/watch?v=ErpDAriJchs&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=14
+    link: https://www.youtube.com/embed/ErpDAriJchs
     date: 2019
 ---
 
@@ -31,7 +31,7 @@ videos:
 **Chorus**
 
 ## Chorus
-Main Idea: Sticking like "Thou Shalt Not Pass", stide steps, galley 
+Main Idea: Sticking like "Thou Shalt Not Pass", stide steps, galley
 
 Start with right foot
 
@@ -43,7 +43,7 @@ Repeat.  Second time, steps are in place, but try to add a nice bounce.
 
 Hint: it can be helpful to choke up/down on the sticks so you're holding them toward the top when banging the ground but closer to the bottom when clashing with partner
 
-**Side steps**: 2 open side steps, first to R.  
+**Side steps**: 2 open side steps, first to R.
 
 **Galley Right**: ends with self-clash on beat 4
 

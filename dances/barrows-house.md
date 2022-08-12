@@ -5,10 +5,10 @@ title: Barrows House
 history: Written by the men's team of Marlboro Morris and Sword.  Named after [Barrows House Inn and Restaurant](https://www.barrowshouse.com/) in Dorset, VT, where the dance was created.
 videos:
   - title: First Virtuale, distanced at Marlboro College
-    link: https://www.youtube.com/watch?v=dY9KbEAivkw
+    link: https://www.youtube.com/embed/dY9KbEAivkw
     date: 2020
   - title: Second Virtuale, at Retreat Meadows
-    link: https://www.youtube.com/watch?v=uKYRIYp4YaE&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=24
+    link: https://www.youtube.com/embed/uKYRIYp4YaE
     date: 2021
 song_name: Over the Hills and Far Away
 lead_in: Once to self

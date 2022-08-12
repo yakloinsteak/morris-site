@@ -5,10 +5,10 @@ title: Castlering
 history: Traditional. Named for an iron age hill fort near Lichfield.
 videos:
   - title: Marlboro Morris Ale, Castlering with Will and Tony toast
-    link: https://www.youtube.com/watch?v=jU0FSMN6lsM&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=2
+    link: https://www.youtube.com/embed/jU0FSMN6lsM
     date: 2012
   - title: Practice
-    link: https://www.youtube.com/watch?v=R2nvniHI9KI&list=PLwgKiCrcWuOZdjakry8xtHlkLF5fcZ8SC&index=16
+    link: https://www.youtube.com/embed/R2nvniHI9KI
     date: 2019
 song_name: Bobby Shafto
 lead_in: Two notes
@@ -56,7 +56,7 @@ Start chorus with castlering foot
 Galley away (square facing in towards your partner, end facing out, galley directly up or down the set)<br>
 4 plain capers back to place<br>
 
-First chorus: 4 Tarzans instead of 2 capers: beat chest once as you step on the beat, use opposite arm from foot.  Start with castlering foot.   
+First chorus: 4 Tarzans instead of 2 capers: beat chest once as you step on the beat, use opposite arm from foot.  Start with castlering foot.
 
 ## Ending
 
