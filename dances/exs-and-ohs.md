@@ -6,6 +6,9 @@ videos:
   - title: Video 2
     link: https://assets.windham.club/videos/exs_and_ohs.1.mp4
     date: 2019
+  - title: Inspiration
+    link: https://www.youtube.com/embed/0uLI6BnVh6w
+    date: 2015
 history: |
   Created late at night at Windham's 2019 retreat, inspired by the connection
   between the song and the figures of Charrington Toby.  The choreography
