@@ -11,6 +11,9 @@ videos:
   - title: Jean Boardman's Cakes for Four
     link: https://assets.windham.club/videos/jean-boardmans-cakes-for-four-2018-11-29.mp4
     date: 2018
+  - title: Jean Boardman's Cakes
+    link: https://www.youtube.com/embed/7wveIAQJYrc
+    date: 2012
 ---
 
 [Diagram of Jean Boardman's Cakes movements](assets/img/jean-boardmans-cakes-diagram.jpg)
