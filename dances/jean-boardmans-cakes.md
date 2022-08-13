@@ -8,6 +8,9 @@ videos:
   - title: Jean Boardman's Cakes at practice
     link: https://www.youtube.com/embed/nutcRImRHfw
     date: 2019
+  - title: Jean Boardman's Cakes for Four
+    link: https://assets.windham.club/videos/jean-boardmans-cakes-for-four-2018-11-29.mp4
+    date: 2018
 ---
 
 [Diagram of Jean Boardman's Cakes movements](assets/img/jean-boardmans-cakes-diagram.jpg)
@@ -69,7 +72,3 @@ How do you galley? Begin it facing down, land galley facing up in a single line 
 
 ## Music
 Sheet music etc
-
-### Jean Boardman's Cakes for Four
-%video{width: '90%', controls: 'true'}
-  %source{src: "https://assets.windham.club/videos/jean-boardmans-cakes-for-four-2018-11-29.mp4", type: "video/mp4"}
