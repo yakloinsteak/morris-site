@@ -1,0 +1,39 @@
+<div class="columns is-centered is-multiline is-mobile">
+  {% if page.video_file_name == "other_videos.yml" %}
+    {% assign video_list = site.data.other_videos %}
+  {% else %}
+    {% assign video_list = site.data.videos %}
+  {% endif %}
+  {% for section in video_list %}
+    {% for video in section[1] %}
+      <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
+        id="project-card">
+        <a href="{{video.link}}">
+        <div class="has-background-black card">
+          <div class="card-content">
+            <h1 class="title has-text-white is-size-5">{{ video.title }}</h1>
+            <p class="has-text-white has-text-weight-light content">{{ video.date }}</p>
+
+            {% if video.link contains "youtube" %}
+              <iframe width="560" height="315" src="{{ video.link }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            {% elsif  video.link contains "facebook" %}
+            <div style="width: 560px; height: 315px;">
+              <a href="{{ video.link }}">
+                {{ video.title }}
+              </a>
+            </div>
+            {% else %}
+            <div style="width: 560px; height: 315px;">
+              <video width="560px" height="315px" controls='true'>
+                <source src="{{ video.link }}" type="video/mp4">
+              </video>
+            </div>
+            {% endif %}
+
+          </div>
+        </div>
+        </a>
+      </div>
+    {% endfor %}
+  {% endfor %}
+</div>
