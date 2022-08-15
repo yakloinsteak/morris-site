@@ -4,8 +4,8 @@ dance_name: Barefooted Quaker
 title: Barefooted Quaker
 videos:
   - title: Barefooted Quaker Practice
-  - link: https://www.youtube.com/embed/sBVz_amLgf0
-  - date: 2019
+    link: https://www.youtube.com/embed/sBVz_amLgf0
+    date: 2019
 history: Traditional.  The name seems to be a reference to [George Fox's shoeless denunciation of Lichfield in 1651](https://staffsquakers.org/history-of-quakers-in-staffordshire/george-fox-in-lichfield-in-1651/).
 lead_in: Once to self
 key: G
@@ -15,7 +15,7 @@ figures:
     - step in line
     - crossing over
     - back to back
-    - rounds of four
+    - rounds for four
     - doubling up
 dance_origin: unknown
 ---
@@ -50,7 +50,7 @@ step in place, swing back to finish/ditto second
 half, passing left shoulder.
 
 
-**Rounds of four**:
+**Rounds for four**:
 Two double steps clockwise to opposite side of
 circle, face corner for two double steps in place,
 two double steps counter clockwise to close
