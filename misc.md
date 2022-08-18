@@ -1,3 +1,8 @@
+---
+title: Misc.
+nonav: true
+---
+
 Junk drawer of random links to organize
 
 * [Photocopy of Lichfield Traditions](/assets/pdfs/lichfield-fascimile.pdf)
