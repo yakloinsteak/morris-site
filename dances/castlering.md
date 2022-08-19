@@ -73,8 +73,3 @@ In detail: start by facing your partner, then square as follows:
 3,4,5,6: Square facing in so that you land facing out
 
 
-## Music
-Lead In:
-Key:
-Sequence:
-Image of sheet music
