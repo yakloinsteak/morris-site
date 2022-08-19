@@ -18,6 +18,10 @@ videos:
   - title: Crossing the Moon debuts at Marlboro Morris Ale
     link: https://www.youtube.com/embed/OERjZnbPQbY
     date: 2018
+song_name: Old Peculiar
+lead_in: Two beats
+key: 
+sequence: heading up (A music) directly follows swagger round (A music); triple chorus (B); double A music for hey
 ---
 
 ## Structure
@@ -77,18 +81,8 @@ Everyone galleys out (to sides of set).  Ends with clash with self <br>
 
 At end of last chorus, use capers after galley to come back to place and face up, with raised crossed sticks.
 
-## Notes
-
-Which way do you galley on the hey?
-
-Ends face in, middles face out when you land the galley.  Pass left with your partner.  This can be described as galleying in the direction of your castle-ring foot (right for 2,4, 5,7; left for 1,3,6,8)
-
-In detail: start by facing your partner, then square as follows:
-1,2,7,8: Square out (i.e. facing up for 1,2 and down for 7,8) so that you land facing into the set
-3,4,5,6: Square facing in so that you land facing out
 
 
-## Music
-Image of sheet music
+
 
 
