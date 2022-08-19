@@ -8,7 +8,7 @@ videos:
     link: https://www.youtube.com/embed/1oSR8dxQli8
     date: 2020
 song_name: Twin Sisters
-lead_in:
+lead_in: Once to yourself
 key: G
 sequence: "A &#x1D106 AB &#x1D107"
 figures:
@@ -47,7 +47,4 @@ On plain capers, turn out over R shoulder
 ## Note
 
 Each person’s locations for the figures rotates in this order: Front - Middle - Back.  In other words, your next figure will be one “level” back from the current figure.
-
-## Music
-
 
