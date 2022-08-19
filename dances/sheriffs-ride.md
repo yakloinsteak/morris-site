@@ -6,6 +6,9 @@ videos:
   title: Sheriff's Ride
   link: https://www.youtube.com/embed/eNCQFg-U9Os
 history: Traditional. "The Sheriff’s Ride is an annual perambulation of the boundary of the City (and between 1553 and 1888 the County) of Lichfield on the Saturday nearest to the feast of the Nativity of the Blessed Virgin Mary aka the eighth of September." ([Lichfield Lore blog](https://lichfieldlore.co.uk/tag/sheriffs-ride/))
+lead_in: Two beats
+key: Em
+sequence: "&#x1D106 AB &#x1D107 AA B"
 ---
 ## Structure
 
@@ -53,7 +56,5 @@ At end of last chorus, instead of 2nd Lichfield, plain capers to face up.  To wa
 ## Notes
 What's a pull down? On third beat (hop without changing feet), pull down (hands up to about chest height, then snap down) instead of showing up.
 
-## Music
-Image of sheet music, etc
 
 
