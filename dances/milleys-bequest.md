@@ -6,6 +6,9 @@ videos:
   - title: Milley's Bequest at Practice
     link: https://www.youtube.com/embed/ErpDAriJchs
     date: 2019
+lead_in: Once to self
+key: G
+sequence: "A &#x1D106 AB &#x1D107"
 ---
 
 ## Structure
@@ -51,7 +54,6 @@ Hint: it can be helpful to choke up/down on the sticks so you're holding them to
 
 Last chorus ends face up, with self clash on beat 4 (as usual), and loud "hey!"
 
-## Music
-Sheet music etc
+## Misc Treat
 
 Check out this [grooving version of Milley's Bequest music](https://www.facebook.com/watch/live/?ref=watch_permalink&v=328637058142283) from Alex Cumming!
