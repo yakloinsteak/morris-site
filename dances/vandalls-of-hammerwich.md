@@ -17,6 +17,9 @@ videos:
   - title: Vandalls of Hammerwich at Putney General Store
     link: https://www.youtube.com/embed/uoYOd5f3KxY
     date: 2011
+lead_in: Two beats
+key: G
+sequence: "&#x1D106 AB &#x1D107 AA BB"
 ---
 
 ## Structure
@@ -69,5 +72,3 @@ Caper, caper, CLASH, down
 
 Ffter last clash in last chorus (2nd of two choruses in a row), everybody turns up, stands on 2 feet, and holds stick horizontally over heads in both hands, shouting “hey!”
 
-## Music
-Image of sheet music, etc
