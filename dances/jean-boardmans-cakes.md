@@ -15,6 +15,10 @@ videos:
   - title: Jean Boardman's Cakes
     link: https://www.youtube.com/embed/7wveIAQJYrc
     date: 2012
+song_name: Popeye the Sailor Man and Pop Goes the Weasel ("Pop-Pop")
+lead_in: Once to self
+key: G
+sequence: Opening Music, then "&#x1D106 AB &#x1D107 AC"; B is first part of Pop Goes the Weasel, C is second part of Pop Goes the Weasel.
 ---
 
 [Diagram of Jean Boardman's Cakes movements](assets/img/jean-boardmans-cakes-diagram.jpg)
@@ -74,5 +78,4 @@ How do you galley? Begin it facing down, land galley facing up in a single line 
 
 2nd half of last chorus is different: doublesteps are in place.  Then 4 plain capers where back row comes up (crossing right shoulder) and front row turns individually over right shoulder, tracking partner.  Ending in row of 8 across.  Walk off to left (Should be #2 leading).
 
-## Music
-Sheet music etc
+
