@@ -42,8 +42,4 @@ Walk off: stage right
 Variations:
 With more dancers (6, 9, etc.), can dance two or more sets side by side (which ends dramatically with all dancers in a single line), or two sets facing, or whatever other creative geometries one might want.  At times we have experimented with having dancers rotate among all 6 dancers, rather than in the set of 3.
 
-## Music
-Lead in:
-Key:
-Sequence:
-Sheet Music:
+
