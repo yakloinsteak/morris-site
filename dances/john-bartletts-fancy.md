@@ -6,6 +6,10 @@ videos:
   - title: Minnesota Traditional Morris dance John Bartlett's Fancy
     link: https://www.youtube.com/embed/ZsCJfmL9Rzk
     date: 2016
+song_name: Drive the Cold Winter Away
+lead_in: Once to self (B music)
+key: Em
+sequence: "B &#x1D106 AB &#x1D107"
 ---
 
 ## Structure
@@ -58,7 +62,6 @@ They get there by walking around an imaginary rectangle, as follows.  Those who 
 
 When in inverted set, don’t caper back to place, but instead on the capers everyone turns to face up (turning out/away), and back row comes up a bit, to end on right side of partner, so all 8 end up in a line facing up.
 
-## Music
-Sheet music etc
+
 
 
