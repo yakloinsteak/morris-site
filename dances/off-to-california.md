@@ -6,6 +6,10 @@ videos:
   - title: Minnesota Traditional Morris teach Off to California
     link: https://www.youtube.com/embed/pbt82DhcE44
     date: 2008
+song_name: Off to California
+lead_in: once to self
+key:
+sequence: "A &#x1D106 AB &#x1D107 A"
 ---
 
 ## Structure
@@ -25,10 +29,6 @@ Ending: After castlering capers, do one more rotation, which should bring everyo
 ## Notes
 Do people rotate individually before switching positions, as in Barrows House?  This is ambiguous.
 
-## Music
-Lead in: Once to Yourself
-Key:
-Tune: Off to California
-Note: Slows for capers
-Sequence:
-Sheet Music
+## Music Note
+Slows at start of B for capers, switching back to regular tempo for end of chorus.
+
