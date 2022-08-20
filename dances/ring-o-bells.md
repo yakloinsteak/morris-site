@@ -4,7 +4,7 @@ title: Ring O'Bells
 song_name: Ring O'Bells
 lead_in: Two beats
 key: G
-sequence: "&#x1D106 AB &#x1D107 B"
+sequence: "&#x1D106 AB &#x1D107 AA BB"
 figures:
   "Eight Person":
     - dance around
@@ -78,10 +78,6 @@ Main Idea: Ninja Sticking, Plain Capers to a Circle, Circle Sticking
 **Circle Sticking**: Hold left stick horizontally out toward L-hand neighbor, use right stick to clash 3 times on R-hand neighbor's stick.  Last beat: step with left foot to come back to set (and ready to start next figure on R foot).
 
 
-## Music
-
-* Two beat intro
-* There is a double AA for the hey followed by double BB to the end.
 
 ## Four-person Notes
 
