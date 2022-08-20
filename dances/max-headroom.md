@@ -19,6 +19,10 @@ videos:
   - title: Max Headroom, dancing with Putney Mountain Morris
     link: https://www.youtube.com/embed/B1GlpEzv23Y
     date: c. 2019
+lead_in: Once to self
+key: Em
+sequence: "A &#x1D106 AB &#x1D107"
+song_name: Donkey Riding
 ---
 
 ## Structure
@@ -65,7 +69,5 @@ When transitioning from scissor caper, with stick overhead, to double steps, wit
 
 Ending: on last chorus, 1 and 3 turn to face up.
 
-## Music
 
-Donkey Riding
 
