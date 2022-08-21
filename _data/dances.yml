@@ -4,6 +4,16 @@
   description: Lorem
   song: Black Joke
   song_image: /assets/music/black-joke.png
+  lead_in: Once to self
+  key: G
+  sequence: "A &#x1D106 AAB- &#x1D107"
+  figures:
+    for_eight:
+      - step in line
+      - crossing over
+      - back to back
+      - rounds for four
+      - doubling up
 - name: "Barrows House"
   image: hankie.jpg
   link: /dances/barrows-house

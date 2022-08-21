@@ -18,6 +18,7 @@ layout: compress
                     </h1>
                     <hr class="has-background-black">
                     <div class="content is-marginless">
+                        <a href="#quick-reference">Jump to quick reference »</a>
                         {% if page.history %}
                           <h2>History</h2>
                           {{ page.history | markdownify }}
@@ -40,25 +41,41 @@ layout: compress
         <div class="container" id="page-section">
           <div class="section">
             <h1 class="title is-1 is-uppercase has-text-weight-bold">
+              <a id="quick-reference"></a>
               Quick Reference
             </h1>
             <hr class="has-background-black">
 
             <div class="content is-marginless">
               <p>
-                <strong>Lead in</strong>: {{ page.lead_in }}
-                <br>
-                <strong>Musical Key</strong>: {{ page.key }}
-                <br>
-                <strong>Sequence</strong>: {{ page.sequence }}
-                <br>
-                {% if page.figures.for_eight %}
-                <strong>Figures for 8</strong>
-                <ul>
-                  {% for figure in page.figures.for_eight %}
-                  <li>{{figure}}</li>
-                  {% endfor %}
-                </ul>
+                {% assign info = (site.data.dances | where: "name", page.title| first) %}
+
+                {% if info.lead_in %}
+                  <strong>Lead in</strong>: {{ info.lead_in }}
+                  <br>
+                {% endif %}
+                {% if info.sequence %}
+                  <strong>Sequence</strong>: {{ info.sequence }}
+                  <br>
+                {% endif %}
+                {% if info.figures.for_eight %}
+                  <strong>Figures for 8</strong>
+                  <ul>
+                    {% for figure in info.figures.for_eight %}
+                      <li>{{ figure }}</li>
+                    {% endfor %}
+                  </ul>
+                  <br>
+                {% endif %}
+                {% if info.song %}
+                  <strong>Song</strong>: {{ info.song }}
+                  {% if info.key %}
+                    (in the key of {{ info.key }})
+                  {% endif %}
+                  <br>
+                {% endif %}
+                {% if info.song_image %}
+                  <img src="{{ info.song_image }}">
                 {% endif %}
               </p>
             </div>
@@ -66,9 +83,6 @@ layout: compress
         </div>
       </div>
     </section>
-
-
-
 
     <!--Footer begins here-->
     {% include footer.html %}
