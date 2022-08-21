@@ -17,9 +17,6 @@ videos:
   - title: Vandalls of Hammerwich at Putney General Store
     link: https://www.youtube.com/embed/uoYOd5f3KxY
     date: 2011
-lead_in: Two beats
-key: G
-sequence: "&#x1D106 AB &#x1D107 AA BB"
 ---
 
 ## Structure

@@ -6,9 +6,6 @@ videos:
   - title: Milley's Bequest at Practice
     link: https://www.youtube.com/embed/ErpDAriJchs
     date: 2019
-lead_in: Once to self
-key: G
-sequence: "A &#x1D106 AB &#x1D107"
 ---
 
 ## Structure

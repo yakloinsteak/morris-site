@@ -7,15 +7,6 @@ videos:
   - title: Distanced Charrington Toby, at Marlboro College
     link: https://www.youtube.com/embed/1oSR8dxQli8
     date: 2020
-song_name: Twin Sisters
-lead_in: Once to yourself
-key: G
-sequence: "A &#x1D106 AB &#x1D107"
-figures:
-  "Five People":
-    - V
-    - X
-    - circle
 dance_origin:
 ---
 ## Structure

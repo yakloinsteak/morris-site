@@ -19,10 +19,6 @@ videos:
   - title: Max Headroom, dancing with Putney Mountain Morris
     link: https://www.youtube.com/embed/B1GlpEzv23Y
     date: c. 2019
-lead_in: Once to self
-key: Em
-sequence: "A &#x1D106 AB &#x1D107"
-song_name: Donkey Riding
 ---
 
 ## Structure
