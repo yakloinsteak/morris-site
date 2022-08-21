@@ -10,7 +10,7 @@ videos:
   - title: Practice
     link: https://www.youtube.com/embed/R2nvniHI9KI
     date: 2019
-song_name: Bobby Shafto
+song: Bobby Shafto
 lead_in: Two notes
 key: G
 sequence: "A &#x1D106 AB &#x1D107 AAB"

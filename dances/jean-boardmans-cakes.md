@@ -15,7 +15,7 @@ videos:
   - title: Jean Boardman's Cakes
     link: https://www.youtube.com/embed/7wveIAQJYrc
     date: 2012
-song_name: Popeye the Sailor Man and Pop Goes the Weasel ("Pop-Pop")
+song: Popeye the Sailor Man and Pop Goes the Weasel ("Pop-Pop")
 lead_in: Once to self
 key: G
 sequence: Opening Music, then "&#x1D106 AB &#x1D107 AC"; B is first part of Pop Goes the Weasel, C is second part of Pop Goes the Weasel.

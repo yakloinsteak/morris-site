@@ -10,7 +10,7 @@ videos:
   - title: Second Virtuale, at Retreat Meadows
     link: https://www.youtube.com/embed/uKYRIYp4YaE
     date: 2021
-song_name: Over the Hills and Far Away
+song: Over the Hills and Far Away
 lead_in: Once to self
 key: G
 sequence: "A &#x1D106 AB &#x1D107 A"

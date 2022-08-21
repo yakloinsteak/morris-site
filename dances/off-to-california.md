@@ -6,7 +6,7 @@ videos:
   - title: Minnesota Traditional Morris teach Off to California
     link: https://www.youtube.com/embed/pbt82DhcE44
     date: 2008
-song_name: Off to California
+song: Off to California
 lead_in: once to self
 key:
 sequence: "A &#x1D106 AB &#x1D107 A"

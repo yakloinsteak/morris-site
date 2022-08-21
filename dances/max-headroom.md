@@ -22,7 +22,7 @@ videos:
 lead_in: Once to self
 key: Em
 sequence: "A &#x1D106 AB &#x1D107"
-song_name: Donkey Riding
+song: Donkey Riding
 ---
 
 ## Structure

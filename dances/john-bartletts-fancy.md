@@ -6,7 +6,7 @@ videos:
   - title: Minnesota Traditional Morris dance John Bartlett's Fancy
     link: https://www.youtube.com/embed/ZsCJfmL9Rzk
     date: 2016
-song_name: Drive the Cold Winter Away
+song: Drive the Cold Winter Away
 lead_in: Once to self (B music)
 key: Em
 sequence: "B &#x1D106 AB &#x1D107"
