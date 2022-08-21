@@ -18,10 +18,6 @@ videos:
   - title: Crossing the Moon debuts at Marlboro Morris Ale
     link: https://www.youtube.com/embed/OERjZnbPQbY
     date: 2018
-song: Old Peculiar
-lead_in: Two beats
-key:
-sequence: heading up (A music) directly follows swagger round (A music); triple chorus (B); double A music for hey
 ---
 
 ## Structure

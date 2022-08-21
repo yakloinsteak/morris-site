@@ -6,9 +6,6 @@ videos:
   title: Sheriff's Ride
   link: https://www.youtube.com/embed/eNCQFg-U9Os
 history: Traditional. "The Sheriff’s Ride is an annual perambulation of the boundary of the City (and between 1553 and 1888 the County) of Lichfield on the Saturday nearest to the feast of the Nativity of the Blessed Virgin Mary aka the eighth of September." ([Lichfield Lore blog](https://lichfieldlore.co.uk/tag/sheriffs-ride/))
-lead_in: Two beats
-key: Em
-sequence: "&#x1D106 AB &#x1D107 AA B"
 ---
 ## Structure
 

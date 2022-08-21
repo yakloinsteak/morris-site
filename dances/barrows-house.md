@@ -10,15 +10,6 @@ videos:
   - title: Second Virtuale, at Retreat Meadows
     link: https://www.youtube.com/embed/uKYRIYp4YaE
     date: 2021
-song: Over the Hills and Far Away
-lead_in: Once to self
-key: G
-sequence: "A &#x1D106 AB &#x1D107 A"
-figures:
-  "Eight person":
-    - Litchfield Caper
-    - Scissor Caper
-    - Castlering Caper
 dance_origin:
 ---
 ## Structure

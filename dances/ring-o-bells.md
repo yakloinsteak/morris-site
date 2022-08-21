@@ -1,21 +1,6 @@
 ---
 permalink: /dances/ring-o-bells
 title: Ring O'Bells
-song: Ring O'Bells
-lead_in: Two beats
-key: G
-sequence: "&#x1D106 AB &#x1D107 AA BB"
-figures:
-  "Eight Person":
-    - dance around
-    - ?
-    - down and out
-  "Four Person":
-    - Dance around
-    - Max Headroom hey
-    - Rounds
-    - Doubling up
-    - Down and out
 dance_origin:
 history: |
   Traditional.  According to
