@@ -66,7 +66,7 @@ Main Idea: Ninja Sticking, Plain Capers to a Circle, Circle Sticking
 
 ## Four-person Notes
 
-<video width='90%' controls='true'>
+<video width='560px' height="315px" controls='true'>
   <source src="https://assets.windham.club/videos/ring-o-bells-for-four-2019-01.mp4" type="video/mp4">
 </video>
 

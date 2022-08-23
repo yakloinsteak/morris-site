@@ -58,15 +58,6 @@ layout: compress
                   <strong>Sequence</strong>: {{ info.sequence }}
                   <br>
                 {% endif %}
-                {% if info.figures.for_eight %}
-                  <strong>Figures for 8</strong>
-                  <ul>
-                    {% for figure in info.figures.for_eight %}
-                      <li>{{ figure }}</li>
-                    {% endfor %}
-                  </ul>
-                  <br>
-                {% endif %}
                 {% if info.song %}
                   <strong>Song</strong>: {{ info.song }}
                   {% if info.key %}
@@ -76,7 +67,20 @@ layout: compress
                 {% endif %}
                 {% if info.song_image %}
                   <img src="{{ info.song_image }}">
+                  <br>
                 {% endif %}
+                <br>
+                {% for figure_set in info.figures %}
+                  <strong>Figures for {{ figure_set.name }}</strong>
+                  <br>
+
+                  <ul>
+                    {% for figure in figure_set.figures %}
+                      <li>{{ figure }}</li>
+                    {% endfor %}
+                  </ul>
+                  <br>
+                {% endfor %}
               </p>
             </div>
           </div>

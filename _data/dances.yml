@@ -8,12 +8,13 @@
   key: G
   sequence: "A &#x1D106 AAB- &#x1D107"
   figures:
-    for_eight:
-      - step in line
-      - crossing over
-      - back to back
-      - rounds for four
-      - doubling up
+    - name: For Eight
+      figures:
+        - step in line
+        - crossing over
+        - back to back
+        - rounds for four
+        - doubling up
 - name: "Barrows House"
   image: hankie.jpg
   link: /dances/barrows-house
@@ -24,10 +25,11 @@
   key: G
   sequence: "A &#x1D106 AB &#x1D107 A"
   figures:
-    "Eight person":
-      - Litchfield Caper
-      - Scissor Caper
-      - Castlering Caper
+    - name: For Eight
+      figures:
+        - Litchfield Caper
+        - Scissor Caper
+        - Castlering Caper
 - name: Castlering
   image: castlering.jpg
   link: /dances/castlering
@@ -38,9 +40,10 @@
   key: G
   sequence: "A &#x1D106 AB &#x1D107 AAB"
   figures:
-    "Eight person":
-      - heading up
-      - heading down
+    - name: For Eight
+      figures:
+        - heading up
+        - heading down
 - name: Charrington Toby
   image: toby.jpg
   link: /dances/charrington-toby
@@ -51,10 +54,11 @@
   key: G
   sequence: "A &#x1D106 AB &#x1D107"
   figures:
-    "Five People":
-      - V
-      - X
-      - circle
+    - name: For Five
+      figures:
+        - V
+        - X
+        - circle
 - name: I-91
   image: i-91.jpg
   link: /dances/i-91
@@ -92,16 +96,20 @@
   key: G
   sequence: "&#x1D106 AB &#x1D107 AA BB"
   figures:
-    "Eight Person":
-      - dance around
-      - ?
-      - down and out
-    "Four Person":
-      - Dance around
-      - Max Headroom hey
-      - Rounds
-      - Doubling up
-      - Down and out
+    - name: For Eight
+      figures:
+        - Dance around
+        - Back to back
+        - Doubling up
+        - Hey
+        - Up and Out
+    - name: For Four
+      figures:
+        - Dance around
+        - Max Headroom hey
+        - Rounds
+        - Doubling up
+        - Down and out
 - name: Shepherds Hey
   image: hankie.jpg
   link: /dances/shepherds-hey
