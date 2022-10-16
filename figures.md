@@ -157,7 +157,7 @@ Groups of 4 are top 4 (1-4) and bottom 4 (5-8)
 
 In first half, Circling takes two double steps, each cross takes 1 double step
 
-In second half, the "circling" part adjusted a bit: first corners cutting in early and second corners going wide.  First corners are pretty much back to place by end of second double step, and their trajectory is a narrow oval.  Second corners cross right after first corners (during the second double step). If done correctly, there is a moment where all four are lined up along the first diagonal. (In fact, there might be 2 such moments, first with first corners on the "inside" of the diagonal line and then again with the second corners on the "inside".)
+In second half, the "circling" part is adjusted a bit: first corners cutting in early and second corners going wide.  First corners are pretty much back to place by end of second double step, and their trajectory is a narrow oval.  Second corners cross right after first corners (during the second double step). If done correctly, there is a moment where all four are lined up along the first diagonal. (In fact, there might be 2 such moments, first with first corners on the "inside" of the diagonal line and then again with the second corners on the "inside".)
 
 Variations:
 
@@ -189,3 +189,58 @@ One way to think of this is your "away" foot (the direction you galley away).  U
 5: right	6: left
 7: right	8: left
 ```
+# Variations for Six
+
+## Heading Up/Down for Six
+
+Up: Form a single line facing up as follows: 1&2 stay in place, 3&4 go to outside, 5&6 zoom up the middle to end up between 1 and 2.
+
+Down: 5&6 stay in place, 3&4 go to outside, 1&2 zoom up middle
+
+## Maximum Rounds instead of Hey
+
+When doing dances with a hey for 6 people, we replace the Hey with Maximum Rounds:
+
+Form circle, travel clockwise: 
+
+2 doublesteps around,
+
+castlering caper, 
+
+2 double steps around, 
+
+galley L (square in).  
+
+Then repeat counterclockwise.  
+
+Takes double music, just like a Hey
+
+## Rounds for Six
+
+Everyone does the rounds in one big circle:
+
+2 doublesteps clockwise half way around.
+
+Everyone doublesteps through center, keeping left shoulder to center.
+
+2 doublesteps counterclockwise, spiraling in to tight circle on 2nd doublestep, ending facing inwards.
+
+Turn to face counterclockwise before next doublestep, then doublestep home.
+
+Hanky dances end with pull down, as in rounds for 4.
+
+## Tripling Up
+
+Instead of Doubling Up.  The overall structure is like a giant do-si-do, with evens as a unit and odds as a unit in the do-si-do.
+
+Odds start facing and tavelling up, evens start facing and travelling down.  
+
+2 double steps to one long line (odds at the top, facing up, evens at the bottom, facing down).
+
+Swingbacks to form a set where evens and odds are switched.  
+
+At transition, spin 180 degrees so odds are facing down and evens are facing up.  This spin happens on the "pickup", i.e. the hop of the last swingback, so that the first step of the doublestep can be in the new direction.
+
+2 double steps to one long line (evens at the top, facing up, odds at the bottom, facing down).
+
+Swingback to place
