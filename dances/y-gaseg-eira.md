@@ -96,7 +96,7 @@ single two footed hop with hankies in a low circle.  Everyone is facing up.
 
   * Hey
 
-      * While bottom 6 (original positions 1-4, 7-8) do hey, top 2 (original 5&6) stay in place, mostly doing single steps with cross-body hankies, alternating with 4 capers rotating.  However, when bottoms are crossing, top 2 double step instead of single step.
+      * While top 6 (original positions 1-4, 7-8) do hey, top 2 (original 5&6) stay in place, mostly doing single steps with cross-body hankies, alternating with 4 capers rotating.  However, when bottoms are crossing, top 2 double step instead of single step.
       * To start Hey, 2 at top turn out and then thread through the other two.  The middles start moving inward and up.  Bottoms turn the hard way and go out.
       * Do ½ Hey with 2 double steps, then do 4 capers turning around.
 
@@ -110,9 +110,8 @@ single two footed hop with hankies in a low circle.  Everyone is facing up.
 
 **Bottom Hey**:
 
-Repeat Hey, but now bottom 2 stay in place and top 6 do the Hey, oriented the
-same way (middles head up first).  Don’t do the last corner crossing. Note:
-after corner crossings at start of Hey, set should be reversed from original
+Repeat Hey (including corener crossings at start), but now top 2 stay in place and bottom 6 do the Hey, oriented the
+same way (middles head up first). Note: after corner crossings at start of Hey, set should be reversed from original
 positions (1 and 2 at bottom)
 
 **Circle Hey**:
@@ -144,6 +143,6 @@ positions (1 and 2 at bottom)
 
 ## Notes
 
-We have discussed possible adaptations to "make this our own."  Some examples include doing single steps more like swaggers (showing on the other side), shortening the dance by cutting out some of the repetition and/or stepping place, replacing the 4 CW single capers with galleys
+We have discussed possible adaptations to "make this our own."  Some examples include starting with a Lichfield step in line, doing single steps more like swaggers (showing on the other side), shortening the dance by cutting out some of the repetition and/or stepping place, replacing the 4 CW single capers with galleys
 
 ## Music
