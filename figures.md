@@ -189,6 +189,27 @@ One way to think of this is your "away" foot (the direction you galley away).  U
 5: right	6: left
 7: right	8: left
 ```
+
+# Processional
+
+Start in a wide set.
+
+* 2 open side steps, starting with left foot.  These mostly travel forward, and often very far forward, but also a little bit side to side.
+
+* 4 steps in a circle/square with hankies twirling above head.  First step is forward, 2nd is to right, 3rd is back, 4th is to left.
+
+* 2 open side steps.
+
+* 4 steps in circle/square.
+
+* 2 doublesteps, without shows, facing up, traveling up as needed (usually most of the traveling happens on the side steps; if the destination is very far away, some traveling may still be needed on these doublesteps.
+
+* 4 steps, traveling up as necessary, and coming in form a tight, shoulder-to-shoulder set.
+
+* 2 doublesteps, facing up.  These are usually in place, but theoretically could be used to travel up, as needed.
+
+* Galley out, finishing in set facing up.
+
 # Variations for Six
 
 ## Heading Up/Down for Six
@@ -201,17 +222,17 @@ Down: 5&6 stay in place, 3&4 go to outside, 1&2 zoom up middle
 
 When doing dances with a hey for 6 people, we replace the Hey with Maximum Rounds:
 
-Form circle, travel clockwise: 
+Form circle, travel clockwise:
 
 2 doublesteps around,
 
-castlering caper, 
+castlering caper,
 
-2 double steps around, 
+2 double steps around,
 
-galley L (square in).  
+galley L (square in).
 
-Then repeat counterclockwise.  
+Then repeat counterclockwise.
 
 Takes double music, just like a Hey
 
@@ -233,11 +254,11 @@ Hanky dances end with pull down, as in rounds for 4.
 
 Instead of Doubling Up.  The overall structure is like a giant do-si-do, with evens as a unit and odds as a unit in the do-si-do.
 
-Odds start facing and tavelling up, evens start facing and travelling down.  
+Odds start facing and tavelling up, evens start facing and travelling down.
 
 2 double steps to one long line (odds at the top, facing up, evens at the bottom, facing down).
 
-Swingbacks to form a set where evens and odds are switched.  
+Swingbacks to form a set where evens and odds are switched.
 
 At transition, spin 180 degrees so odds are facing down and evens are facing up.  This spin happens on the "pickup", i.e. the hop of the last swingback, so that the first step of the doublestep can be in the new direction.
 
