@@ -48,7 +48,7 @@ layout: compress
 
             <div class="content is-marginless">
               <p>
-                {% assign info = (site.data.dances | where: "name", page.title| first) %}
+                {% assign info = site.data.dances | where: "name", page.title | first %}
 
                 {% if info.lead_in %}
                   <strong>Lead in</strong>: {{ info.lead_in }}
