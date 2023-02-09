@@ -33,7 +33,7 @@ Musicians play once to themselves.  At end of tune, scissor caper (stick overhea
 
 **Hey**: Double stepping, middles start crossing by right shoulder (while ends do first double step in place, before heading off to their own right (before coming back left to cross right shoulders in the middle).  In general, cross right shoulders in the middle, do a big counterclockwise loop on ends.
 
-At end, stop one place from home, and then galley left towards home, crossing left shoulders with partner and doing a small clash R on the half-beat, as in Crossing the Moon, and then another clas on last beat.  End facing partner.
+At end, stop one place from home, and then galley left towards home, crossing left shoulders with partner and doing a small clash R on the half-beat, as in Crossing the Moon, and then another clash on last beat.  End facing partner.
 
 **Chorus**
 
