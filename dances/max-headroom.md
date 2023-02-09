@@ -39,7 +39,7 @@ At end, stop one place from home, and then galley left towards home, crossing le
 
 **Max Rounds**: Main Idea: Travel in a big circle clockwise, turn around and travel counterclockwise, galley home.
 
-2 double steps and then a galley L in clockwise circle.  Ends start moving 90 degrees toward left (as in circle's tangent), and middle move at about 45 degrees, between forward and left.  To do galley, square in, and galley left along the line of the circle.  With practice, one can move smoothly into the galley from the double steps so it happens with aleaping/running transition instead of a stop.  In general, folks get a little less than halfway around the circle (ends don't quite make it to the opposite end).  Use the capers from the galley to face clockwise.
+2 double steps and then a galley L in clockwise circle.  Ends start moving 90 degrees toward left (as in circle's tangent), and middle move at about 45 degrees, between forward and left.  To do galley, square in, and galley left along the line of the circle.  With practice, one can move smoothly into the galley from the double steps so it happens with a leaping/running transition instead of a stop.  In general, folks get a little less than halfway around the circle (ends don't quite make it to the opposite end).  Use the capers from the galley to face clockwise.
 
 2 double steps back counterclockwise around circle, then galley home.  For this galley, middles square out-ish and then galley L toward their home position, while ends square in and galley R around the circle toward home.  Ends with clash on last beat, facing partner.
 
