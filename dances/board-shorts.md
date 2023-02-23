@@ -59,9 +59,11 @@ one line.  End facing in for chorus.
 **Chorus**: Last chorus, end in “horizontal line”, going to these places after
 the “clump” in the middle instead of going home:
 
-     Up
+Up
+```
 1  2  3  4
-   Down
+```
+Down
 
 End facing up.
 
@@ -83,7 +85,6 @@ Up
 
 3    1
 ```
-
 Down
 
 **Swirling and Galley Home**: In 2 double steps, everyone will travel
@@ -96,7 +97,6 @@ Up
 4
 3
 ```
-
 Down
 
 Then square with left shoulder toward home, and galley left home, passing “left
@@ -112,5 +112,4 @@ Up
 ```
 1  3  2   4
 ```
-
 Down
