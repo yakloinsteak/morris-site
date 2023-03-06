@@ -44,7 +44,7 @@ Main Idea: <br>
 * more open side steps
 * caper home
 
-**2 closed side steps**: start outside foot, closed side step with outside foot.  1&2 and 5&6 move in toward each other on first one, stay there on second.  3&4 and 7&8 move out and up to end up in a “heading up(/figures#heading-up)” inverted set.  These latter pairs start moving in the “opposite” direction that their feet want to move for a closed side step, and they are moving in the “opposite” direction from how they show on the first side step (show in); this takes some practice.  In other words, they do a closed side step in, but they do it moving in an up and out direction.
+**2 closed side steps**: start outside foot, closed side step with outside foot.  1&2 and 5&6 move in toward each other on first one, stay there on second.  3&4 and 7&8 move out and up to end up in a “[heading up](/figures#heading-up)” inverted set.  These latter pairs start moving in the “opposite” direction that their feet want to move for a closed side step, and they are moving in the “opposite” direction from how they show on the first side step (show in); this takes some practice.  In other words, they do a closed side step in, but they do it moving in an up and out direction.
 
 **4 big steps**: All take 4 big steps, with hankies showing in above-the-head circles as with plan capers.  All end up facing down, with those on the outside ending up inside and vice versa, so they end in this position:
 ```
