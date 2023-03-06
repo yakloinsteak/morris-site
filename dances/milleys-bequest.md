@@ -31,7 +31,7 @@ videos:
 **Chorus**
 
 ## Chorus
-Main Idea: Sticking like "Thou Shalt Not Pass", stide steps, galley
+Main Idea: Sticking like "Thou Shalt Not Pass", side steps, galley
 
 Start with right foot
 
