@@ -4,12 +4,15 @@ title: Nutting Girl
 history: Adapted from the dance of the same name from other traditions.
 ---
 
-Double Jig for 2 or more dancers.  Description below is for 2 dancers; for more dancers, one or both dancers are replaced with a group.
+Double Jig for 2 or more dancers.  Description below is for 2 dancers; for more
+dancers, one or both dancers are replaced with a group.
 
 ## Structure
 
 
-Main Idea: Each figure and chorus is danced twice, once by each dancer.  Before each figure and chorus, dancers prepare to enter with 4 Swingbacks.  After each figure, dancers “leave” by walking down while the other dancer enters.
+Main Idea: Each figure and chorus is danced twice, once by each dancer.  Before
+each figure and chorus, dancers prepare to enter with 4 Swingbacks.  After each
+figure, dancers “leave” by walking down while the other dancer enters.
 
 
 **Figure 1: Foot Up**:  4 Double Steps, 2 Closed Side Steps, Galley Right

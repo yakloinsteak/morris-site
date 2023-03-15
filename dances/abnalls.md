@@ -4,7 +4,7 @@ title: Abnalls
 history: Learned from video of 1983 Stafford Morris Men, included with all the traditional dances
 videos:
   - title: Morris Ring video, starts at 25:10
-    link: https://www.youtube.com/watch?v=MClbjr2ZTM0
+    link: https://www.youtube.com/embed/MClbjr2ZTM0
     date: 1983
 ---
 One stick

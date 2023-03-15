@@ -4,7 +4,7 @@ title: All the Winds
 history: traditional Lichfield
 videos:
   - title: Morris Ring video, starts at 22:43
-    link: https://www.youtube.com/watch?v=MClbjr2ZTM0
+    link: https://www.youtube.com/embed/MClbjr2ZTM0
     date: 1983
 ---
 
@@ -41,14 +41,4 @@ Chorus faces a different hat each time.  Direction of choruses travels countercl
 
 Repeat (2 double steps returning back to center, galley L).
 
-
 Music: Chorus to Cambric Shirt, figures to chorus of Blowing in the Wind
-
-
-
-
-
-
-
-
-
