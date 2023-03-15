@@ -150,7 +150,6 @@
   image: exs-and-ohs.png
   link: /dances/exs-and-ohs
   description: Lorem
-  song: "Ex's and Oh's"
   song_image:
   song: Ex's and Oh's (Elle King)
   lead_in: none
@@ -204,4 +203,28 @@
   link: /dances/board-shorts
   description:
   song: Idlewild Jig
+  song_image:
+
+
+
+
+
+
+- name: Abnalls
+  image: hankie.jpg
+  link: /dances/abnalls
+  description:
+  song:
+  song_image:
+- name: All the Winds
+  image: hankie.jpg
+  link: /dances/all-the-winds
+  description:
+  song:
+  song_image:
+- name: Nutting Girl
+  image: hankie.jpg
+  link: /dances/nutting-girl
+  description:
+  song:
   song_image:

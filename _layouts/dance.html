@@ -1,10 +1,11 @@
 ---
 layout: compress
 ---
-
 <!DOCTYPE html>
 <html>
 {% include head.html %}
+{% assign info = site.data.dances | where: "name", page.title | first %}
+{% assign has_quick_ref = info.song or info.lead_in or info.sequence or info.key or info.song_image %}
 
 <body>
     {% include navbar.html %}
@@ -18,7 +19,10 @@ layout: compress
                     </h1>
                     <hr class="has-background-black">
                     <div class="content is-marginless">
-                        <a href="#quick-reference">Jump to quick reference »</a>
+
+                        {% if has_quick_ref %}
+                          <a href="#quick-reference">Jump to quick reference »</a>
+                        {% endif %}
                         {% if page.history %}
                           <h2>History</h2>
                           {{ page.history | markdownify }}
@@ -36,6 +40,7 @@ layout: compress
         </div>
     </section>
 
+    {% if has_quick_ref %}
     <section class="hero is-fullheight">
       <div class="hero-body">
         <div class="container" id="page-section">
@@ -48,8 +53,6 @@ layout: compress
 
             <div class="content is-marginless">
               <p>
-                {% assign info = site.data.dances | where: "name", page.title | first %}
-
                 {% if info.lead_in %}
                   <strong>Lead in</strong>: {{ info.lead_in }}
                   <br>
@@ -87,6 +90,7 @@ layout: compress
         </div>
       </div>
     </section>
+    {% endif %}
 
     <!--Footer begins here-->
     {% include footer.html %}
