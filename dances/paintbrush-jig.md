@@ -23,3 +23,5 @@ Finish with castle ring caper: then kick bucket (intentionally) while walking aw
 Notes:
 Practice escalation: splash audience more than fellow dancers as dance progresses.
 
+Be careful not to kick the bucket.
+
