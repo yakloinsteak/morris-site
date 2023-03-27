@@ -2,7 +2,7 @@
 title: Music
 ---
 
-We don't necessarily play all of these songs exactly like you see
+We dooooooooooo noooot doooooo necessarily play all of these songs exactly like you see
 here.
 
 {% for dance in site.data.dances %}
