@@ -205,13 +205,8 @@
   song: Idlewild Jig
   song_image:
 
-
-
-
-
-
 - name: Abnalls
-  image: hankie.jpg
+  image: abnalls.png
   link: /dances/abnalls
   description:
   song:
