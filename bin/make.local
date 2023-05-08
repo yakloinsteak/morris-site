@@ -1,0 +1,3 @@
+#!/bin/bash
+
+find /app/_site -name '*.html' -exec sed -i 's/www.windham.club/morris.127.0.0.1.nip.io/g' {} \;

@@ -3,7 +3,7 @@ version: '3.8'
 x-app: &app
 services:
   web:
-    ports: ["4000:4000"]
+    ports: ["8080:80"]
     image: morris:latest
     stdin_open: true
     tty: true
@@ -16,16 +16,13 @@ services:
     environment:
       EDITOR: vi
       HISTFILE: /log/.bash_history # TODO: test
-    #command: ["bundle", "exec", "jekyll", "serve", "--livereload"]
-    command: ["bundle", "exec", "jekyll", "serve", "--livereload", "--host=morris.127.0.0.1.nip.io"]
     labels:
       - "traefik.http.routers.morris.rule=Host(`morris.127.0.0.1.nip.io`)"
-      #- "traefik.http.routers.morris.tls=true"
+      - "traefik.http.routers.morris.tls=true"
       - "traefik.enable=true"
-      - "traefik.http.services.morris.loadbalancer.server.port=4040"
-    volumes:
-      - .:/app:cached
-      #- bundle:/bundle
+    #volumes:
+    #  - .:/app:cached
+    #  #- bundle:/bundle
 
 networks:
   default:
