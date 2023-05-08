@@ -18,12 +18,11 @@ services:
       HISTFILE: /log/.bash_history # TODO: test
     #command: ["bundle", "exec", "jekyll", "serve", "--livereload"]
     command: ["bundle", "exec", "jekyll", "serve", "--livereload", "--host=morris.127.0.0.1.nip.io"]
-    #, "--host=0.0.0.0"]
     labels:
       - "traefik.http.routers.morris.rule=Host(`morris.127.0.0.1.nip.io`)"
-      - "traefik.http.routers.morris.tls=true"
+      #- "traefik.http.routers.morris.tls=true"
       - "traefik.enable=true"
-      - "traefik.http.services.morris.loadbalancer.server.port=4000"
+      - "traefik.http.services.morris.loadbalancer.server.port=4040"
     volumes:
       - .:/app:cached
       #- bundle:/bundle

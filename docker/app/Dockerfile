@@ -5,7 +5,7 @@ ARG BUNDLER_VERSION=2.4.12
 
 RUN apt-get update \
   && DEBIAN_FRONTEND=noninteractive apt-get install -yq --no-install-recommends \
-  libssl-dev libffi-dev build-essential curl
+  libssl-dev libffi-dev build-essential curl socat
 
 RUN mkdir /app /bundle
 WORKDIR /app
@@ -20,7 +20,7 @@ RUN groupadd -g ${GROUP_ID} -r app-user \
 COPY docker/app/entrypoint.sh /
 RUN chmod +x /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
-CMD ["bundle", "exec", "jekyll", "serve", "--livereload", "--host=0.0.0.0"]
+CMD ["bundle", "exec", "jekyll", "serve", "--livereload"]
 
 USER app-user
 
