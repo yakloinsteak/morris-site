@@ -3,9 +3,9 @@ permalink: /dances/john-bartletts-fancy
 title: "John Bartlett's Fancy"
 history: Created by the men’s team of Marlboro Morris and Sword.  Named for John Bartlett, personality (dean?) at  Marlboro College.
 videos:
-  - title: Minnesota Traditional Morris dance John Bartlett's Fancy
-    link: https://www.youtube.com/embed/ZsCJfmL9Rzk
-    date: 2016
+  - title: "John Bartlett's Fancy"
+    link: https://assets.windham.club/vidoes/john.bartletts.fancy.2023.05.08.mp4
+    date: 2023
 song: Drive the Cold Winter Away
 lead_in: Once to self (B music)
 key: Em

@@ -5,7 +5,12 @@ layout: compress
 <html>
 {% include head.html %}
 {% assign info = site.data.dances | where: "name", page.title | first %}
-{% assign has_quick_ref = info.song or info.lead_in or info.sequence or info.key or info.song_image %}
+
+{% if info.song or info.lead_in or info.sequence or info.key or info.song_imag %}
+  {% assign has_quick_ref = true %}
+{% else%}
+  {% assign has_quick_ref = false %}
+{% endif %}
 
 <body>
     {% include navbar.html %}
