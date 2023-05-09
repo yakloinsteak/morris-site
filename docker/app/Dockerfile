@@ -27,10 +27,7 @@ USER app-user
 RUN bundle config set --local path /bundle \
     && bundle
 
-COPY . .
-USER root
-RUN chown -R app-user:app-user .
-USER app-user
+COPY --chown=app-user:app-user . .
 
 RUN bundle exec jekyll build
 
