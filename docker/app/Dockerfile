@@ -39,3 +39,5 @@ RUN bin/make.local
 FROM nginx:latest AS serve
 
 COPY --from=build /app/_site /usr/share/nginx/html
+COPY docker/app/morris.conf /etc/nginx/conf.d
+RUN rm /etc/nginx/conf.d/default.conf
