@@ -7,9 +7,9 @@ history: |
   [tunearch.org](https://tunearch.org/wiki/Annotation:Ring_o%27_Bells) the name
   is in honor of a Lichfield "public house".
 videos:
-  - title: Ring O'Bells Practice
-    link: https://www.youtube.com/embed/3tEPboSd6T0
-    date: 2019
+  - title: Ring O'Bells
+    link: https://assets.windham.club/videos/ring.o.bells.2023-05-11.mp4
+    date: 2023
 ---
 ## Structure
 
@@ -63,6 +63,9 @@ Main Idea: Ninja Sticking, Plain Capers to a Circle, Circle Sticking
 **Circle Sticking**: Hold left stick horizontally out toward L-hand neighbor, use right stick to clash 3 times on R-hand neighbor's stick.  Last beat: step with left foot to come back to set (and ready to start next figure on R foot).
 
 
+## Aerial Practice
+2019
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3tEPboSd6T0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Four-person Notes
 
