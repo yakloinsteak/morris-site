@@ -4,7 +4,7 @@ title: Nuts in May
 history: Traditional
 videos:
   - title: Nuts in May at Marlboro Morris Ale
-    link: https://www.youtube.com/watch?v=nV_8yUwczmg
+    link: https://www.youtube.com/embed/nV_8yUwczmg
     date: 2015
   - title: Nuts in May Performed by Marlboro Morris and Sword
     link: https://www.youtube.com/embed/Mc_E2FZv5N0
