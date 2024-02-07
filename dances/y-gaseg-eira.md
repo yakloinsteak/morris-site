@@ -1,13 +1,78 @@
 ---
 permalink: /dances/y-gaseg-eira
-title: Y Gaseg Eira
-history: From the Welsh Nantgarw tradition.  Windham learned of the tradition and dance in 2022, and began learning the dance based on [Cardiff Morris's 2014 video](https://www.youtube.com/watch?v=xRNFF0_Jqok).  The name of the dance (which sometimes appears with "Caseg") means "The Snow Mare," which is apparently a Welsh idiom for a large snowball.  The "scooping" figures in the dance are reminiscent of creating a large snowball, and the cross-body hanky showing is reminiscent of hugging oneself in the cold.  Windham was motivated to learn Nantgarw in part because of possible connections to to Lichfield, including 8 dancer sets.  What we know about all this comes from [Cardiff Morris](http://www.cardiffmorris.org/Nantgarw.htm) and [wikipedia](https://en.wikipedia.org/wiki/Morris_dance#Morris_Dancing_in_Wales).  It is worth noting that, accordinng to Wikipedia, "There are no hard and fast rules as to which Morris sides can perform dances from a tradition, but the original Nantgarw dance, Y Gaseg Eira, is considered to be a dance for the Welsh sides."
+title: The Snow Moose 
+history: From the Welsh Nantgarw tradition.  Windham learned of the tradition and dance in 2022, and began learning the dance based on [Cardiff Morris's 2014 video](https://www.youtube.com/watch?v=xRNFF0_Jqok).  The name of the dance (which sometimes appears with "Caseg") means "The Snow Mare," which is apparently a Welsh idiom for a large snowball.  The "scooping" figures in the dance are reminiscent of creating a large snowball, and the cross-body hanky showing is reminiscent of hugging oneself in the cold.  Windham was motivated to learn Nantgarw in part because of possible connections to to Lichfield, including 8 dancer sets.  What we know about all this comes from [Cardiff Morris](http://www.cardiffmorris.org/Nantgarw.htm) and [wikipedia](https://en.wikipedia.org/wiki/Morris_dance#Morris_Dancing_in_Wales).  It is worth noting that, according to Wikipedia, "There are no hard and fast rules as to which Morris sides can perform dances from a tradition, but the original Nantgarw dance, Y Gaseg Eira, is considered to be a dance for the Welsh sides."
 videos:
-  - title: Cardiff Morris dacing Y Gaseg Eira
+  - title: Cardiff Morris dancing Y Gaseg Eira
     link: https://www.youtube.com/embed/xRNFF0_Jqok
     date: 2014
 ---
 ## Structure
+
+Step in Line
+
+Chorus (Lichfield capers)
+
+Hey 
+
+Chorus (Scissor capers)
+
+Max Rounds
+
+Chorus (Castlering capers)
+
+**Chorus**:<br>
+
+The chorus has 3 parts, “Scoop Down,” “Scoop Up,” and “Crossings”
+
+ **Scoop Down**: 
+
+ * 1st double step: 3 and 6 cross, 1 and 2 start turning in to face down
+    * 2nd double steps: 4 and 5 cross, 1 and 2 continue to turn
+    * 3rd double step: 1 and 2 finish turning, 3 moves between 7 and 8, 4 moves between 5 and 6, forming a 6 person sideways set, everyone facing down (see below)
+    * 4th double step: in place
+
+```
+   Up
+ 1    2
+6   4   5
+7   3   8
+```
+
+  * Caper, then galley right
+  * There is some question about what 1 and 2 do during this time.  Option 1: do “scoops” the whole time.  Option 2: do “scoops” and then join on the caper/galley.  Option 3: double step with the rest, then “scoop” when the rest do caper and galley.  Option 4: do double steps with the rest, then also do caper and galley with the rest. 
+
+**Scoop Up**:
+
+  * 1st double step: 8 and 6 cross, 1 and 2 move down and past 3-6 as soon as possible after 8 and 6 cross.
+  * 2nd double steps: 5 and 7 cross.  1-2 keep moving down
+* 3rd double step: 3-6 come up, 1-2 go across and down (see below for final positions)
+* 4th double step: in place
+
+```
+    Up
+8   4   7
+5   3   6
+ 2    1
+````
+  * caper, then galley right
+  * On capers after galley, form a regular shaped set.  Most folks are in the right spot, but 3 and 4 need to slide back to their original positions.  3-6 will be in the right spots, 1-2 and 7-8 will be a long corner across from their original positions. 
+   * This part suggests that what 1-2 should do is Option 3: double step on double steps, scoop during caper and galley.
+
+**Corner Crossings**:
+
+
+* Doublesteps 1 and 2: first corners (1 and 8) cross
+* 3rd doublestep: middles cross
+* 4th doublestep: second corners (2 and 7) cross while middles loop/turn around
+* 5th doublestep: middles cross back
+* 6th doublestep: form set
+* Galley right
+
+
+## Source Dance
+
+This is a description of the original Y Gaseg Eira Welsh dance, from which The Snow Moose was adapted.
 
 See below for descriptions of the steps.
 
@@ -146,3 +211,5 @@ positions (1 and 2 at bottom)
 We have discussed possible adaptations to "make this our own."  Some examples include starting with a Lichfield step in line, doing single steps more like swaggers (showing on the other side), shortening the dance by cutting out some of the repetition and/or stepping place, replacing the 4 CW single capers with galleys
 
 ## Music
+
+
