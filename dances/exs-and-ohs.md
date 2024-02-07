@@ -51,9 +51,9 @@ Form line, swagger in place (0:08 ignore start of singing) until word "go"
 
 1:19 “by” Lichfields 1 -> 5 down line (stand in place while not capering)
 
-1:36 “1-2-3” snaps 1 -> 5 quick, galley L
+1:36 “1-2-3” snaps 1 -> 5 quick, galley L (snap as usual before galley)
 
-1:43 “1-2-3” snaps 5 -> 1, galley R
+1:43 “1-2-3” snaps 5 -> 1, galley R (snap as usual before galley)
 
 ### Chorus 2: X, scissors
 1:50 “xs” 4 doublesteps into X
