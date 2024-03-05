@@ -23,13 +23,13 @@ song: Take Me Out to the Ballgame
 ["The Feminist History of ‘Take Me Out to the Ball Game’" by Anna Laymon, *Smithsonian Magazine* 10/10/2019](https://www.smithsonianmag.com/history/feminist-history-take-me-out-ball-game-180973307/)
 
 ## Summary
-Lichfield, 8 person set.  Single stick
+Lichfield, 8 person set.  Single stick  
 2nd set of figures (step in line, crossing over, back to back, rounds in 4, doubling up)
 
 ## Music
-"Take Me Out to the Ballgame" in jig time (6/8)
-Once to yourself  + first figure uses the full verse music
-Subsequent figures use second half of verse music
+"Take Me Out to the Ballgame" in jig time (6/8)  
+Once to yourself  + first figure uses the full verse music  
+Subsequent figures use second half of verse music  
 Chorus uses the full chorus music
 
 ## Chorus
@@ -52,22 +52,22 @@ mm. 1-2 "Batter Up" - Point L shoulder to opposite dancer.  Tap ground with stic
 ### "Take the field"
 dancers use 2 double-steps to form the shape of a baseball field
 
-1-5 form the infield.  2-5 make a diamond around 1
-1: in the middle (pitcher's mound)
-2: middle of the set in front of music facing down (home plate)
-3: Left side of set (first base)
-4: middle of the set behind 1 (second base)
+1-5 form the infield.  2-5 make a diamond around 1  
+1: in the middle (pitcher's mound)  
+2: middle of the set in front of music facing down (home plate)  
+3: Left side of set (first base)  
+4: middle of the set behind 1 (second base)  
 5: R side of set (third base)
 
-6-8 go out and wide to form the outfield
-6: out and wide R side of set (left field)
-7: out and wide L side of set (right field)
+6-8 go out and wide to form the outfield  
+6: out and wide R side of set (left field)  
+7: out and wide L side of set (right field)  
 8: far out in the center of set (center field)
 
 2 faces down the center of the set, everyone else faces 2
 
 ### Last chorus / Dance End:
-Clash on 1 - 2 - 3 but do not galley home
-15-16. "Call your shot"
-Raise stick in air 45 degrees up and to the left and hold it there
+Clash on 1 - 2 - 3 but do not galley home  
+15-16. "Call your shot"  
+Raise stick in air 45 degrees up and to the left and hold it there  
 Bring stick down on 16.1 ("game!") and wind up into a 2-handed swinging clash with opposite on 16.4
