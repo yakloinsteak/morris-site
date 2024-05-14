@@ -20,9 +20,29 @@ services:
       - "traefik.http.routers.morris.rule=Host(`morris.127.0.0.1.nip.io`)"
       - "traefik.http.routers.morris.tls=true"
       - "traefik.enable=true"
-    #volumes:
-    #  - .:/app:cached
-    #  #- bundle:/bundle
+
+  dev:
+    ports: ["8080:80"]
+    image: morris:latest
+    stdin_open: true
+    tty: true
+    build:
+      target: base
+      context: .
+      dockerfile: docker/app/Dockerfile
+      args:
+        USER_ID: ${USER_ID:-10000}
+        GROUP_ID: ${GROUP_ID:-10000}
+    environment:
+      EDITOR: vi
+      HISTFILE: /log/.bash_history # TODO: test
+    labels:
+      - "traefik.http.routers.morris.rule=Host(`morris.127.0.0.1.nip.io`)"
+      - "traefik.http.routers.morris.tls=true"
+      - "traefik.enable=true"
+    volumes:
+      - .:/app:cached
+      #- bundle:/bundle
 
 networks:
   default:

@@ -3,8 +3,8 @@
   link: /dances/barefooted-quaker
   description: Lorem
   song: Black Joke
-  song_image: /assets/music/black-joke.png
-  #song_image: /assets/music/Bare Footed Quaker_The Black Joker.pdf
+  #song_image: /assets/music/black-joke.png
+  song_image: /assets/music/Bare Footed Quaker_The Black Joker.pdf
   lead_in: Once to self
   key: G
   sequence: "A &#x1D106 AAB- &#x1D107"
@@ -190,7 +190,7 @@
   link: /dances/y-gaseg-eira
   description: Lorem
   song: Y Gaseg Eira
-  song_image:
+  song_image: "Elc Yr Eira (The Snow Moose).pdf"
 
 - name: Paintbrush Jig
   image: hankie.jpg
@@ -198,12 +198,14 @@
   description: Lorem
   song:
   song_image:
+
 - name: Newtowne Oak
   image: hankie.jpg
   link: /dances/newtowne-oak
   description:
   song:
   song_image:
+
 - name: Board Shorts
   image: hankie.jpg
   link: /dances/board-shorts
@@ -217,6 +219,7 @@
   description:
   song:
   song_image:
+
 - name: All the Winds
   image: hankie.jpg
   link: /dances/all-the-winds
@@ -234,6 +237,13 @@
 - name: "Trixie's Fever"
   image: hankie.jpg
   link: /dances/trixies-fever
+  description:
+  song:
+  song_image:
+
+- name: "From Night Till Morn"
+  image: hankie.jpg
+  link: /dances/from-night-till-morn
   description:
   song:
   song_image:
