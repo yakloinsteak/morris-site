@@ -27,17 +27,17 @@ One stick, usually held in two hands, approximately 45 degrees with right end hi
 
 Musicians play once to themselves.  At end of tune, scissor caper (stick overhead--same for all scissor capers throughout).
 
-**Step in Line**: Double step in place.  At end, scissor caper, with 1 and 3 turning to face their partners.  (Turn 90 degrees over right shoulder on each of beats 2 and 3).  On last beat, clash with partner.
+**Step in Line (for 4)**: Double step in place.  At end, scissor caper, with 1 and 3 turning to face their partners.  (Turn 90 degrees over right shoulder on each of beats 2 and 3).  On last beat, clash with partner.
 
 **Chorus**
 
-**Hey**: Double stepping, middles start crossing by right shoulder (while ends do first double step in place, before heading off to their own right (before coming back left to cross right shoulders in the middle).  In general, cross right shoulders in the middle, do a big counterclockwise loop on ends.
+**Hey (for 4)**: Double stepping, middles start crossing by right shoulder (while ends do first double step in place, before heading off to their own right (before coming back left to cross right shoulders in the middle).  In general, cross right shoulders in the middle, do a big counterclockwise loop on ends.
 
-At end, stop one place from home, and then galley left towards home, crossing left shoulders with partner and doing a small clash R on the half-beat, as in Crossing the Moon, and then another clash on last beat.  End facing partner.
+At end, stop one place from home, and then galley left towards home, crossing left shoulders with partner, and then clash on last beat.  End facing partner.
 
 **Chorus**
 
-**Max Rounds**: Main Idea: Travel in a big circle clockwise, turn around and travel counterclockwise, galley home.
+**[Max Rounds](#max-rounds)**: Main Idea: Travel in a big circle clockwise, turn around and travel counterclockwise, galley home.
 
 2 double steps and then a galley L in clockwise circle.  Ends start moving 90 degrees toward left (as in circle's tangent), and middle move at about 45 degrees, between forward and left.  To do galley, square in, and galley left along the line of the circle.  With practice, one can move smoothly into the galley from the double steps so it happens with a leaping/running transition instead of a stop.  In general, folks get a little less than halfway around the circle (ends don't quite make it to the opposite end).  Use the capers from the galley to face clockwise.
 
