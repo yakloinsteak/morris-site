@@ -190,7 +190,7 @@ One way to think of this is your "away" foot (the direction you galley away).  U
 7: right	8: left
 ```
 
-# Processional
+# [Processional](#processional)
 
 Start in a wide set.
 
@@ -218,7 +218,7 @@ Up: Form a single line facing up as follows: 1&2 stay in place, 3&4 go to outsid
 
 Down: 5&6 stay in place, 3&4 go to outside, 1&2 zoom up middle
 
-## Maximum Rounds instead of Hey
+## [Maximum Rounds instead of Hey](#maximum-rounds)
 
 When doing dances with a hey for 6 people, we replace the Hey with Maximum Rounds:
 
@@ -236,7 +236,7 @@ Then repeat counterclockwise.
 
 Takes double music, just like a Hey
 
-## Rounds for Six
+## [Rounds for Six](#rounds-for-six)
 
 Everyone does the rounds in one big circle:
 
@@ -250,7 +250,7 @@ Turn to face counterclockwise before next doublestep, then doublestep home.
 
 Hanky dances end with pull down, as in rounds for 4.
 
-## Tripling Up
+## [Tripling Up](#tripling-up)
 
 Instead of Doubling Up.  The overall structure is like a giant do-si-do, with evens as a unit and odds as a unit in the do-si-do.
 
