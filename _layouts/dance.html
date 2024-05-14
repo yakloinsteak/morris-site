@@ -74,7 +74,11 @@ layout: compress
                   <br>
                 {% endif %}
                 {% if info.song_image %}
-                  <img src="{{ info.song_image }}">
+                  {% if info.song_image contains "pdf" %}
+                    <embed src="{{ info.song_image }}" width="100%" height="875" type="application/pdf">
+                  {% else %}
+                    <img src="{{ info.song_image }}">
+                  {% endif %}
                   <br>
                 {% endif %}
                 <br>
