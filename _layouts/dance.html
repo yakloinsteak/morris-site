@@ -26,7 +26,7 @@ layout: compress
                     <div class="content is-marginless">
 
                         {% if has_quick_ref %}
-                          <a href="#quick-reference">Jump to quick reference »</a>
+                          <a href="#quick-reference">Jump to music »</a>
                         {% endif %}
                         {% if page.history %}
                           <h2>History</h2>
@@ -52,7 +52,7 @@ layout: compress
           <div class="section">
             <h1 class="title is-1 is-uppercase has-text-weight-bold">
               <a id="quick-reference"></a>
-              Quick Reference
+              Music
             </h1>
             <hr class="has-background-black">
 
@@ -67,20 +67,22 @@ layout: compress
                   <br>
                 {% endif %}
                 {% if info.song %}
-                  <strong>Song</strong>: {{ info.song }}
+                  <strong>Song</strong>:
+
+                  {% if info.song_pdf %}
+                    <a href="{{ info.song_pdf }}">{{ info.song }}</a>
+                  {% endif %}
+
                   {% if info.key %}
                     (in the key of {{ info.key }})
                   {% endif %}
                   <br>
                 {% endif %}
                 {% if info.song_image %}
-                  {% if info.song_image contains "pdf" %}
-                    <embed src="{{ info.song_image }}" width="100%" height="875" type="application/pdf">
-                  {% else %}
-                    <img src="{{ info.song_image }}">
-                  {% endif %}
+                  <img src="{{ info.song_image }}">
                   <br>
                 {% endif %}
+
                 <br>
                 {% for figure_set in info.figures %}
                   <strong>Figures for {{ figure_set.name }}</strong>

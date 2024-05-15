@@ -2,16 +2,12 @@
 title: Music
 ---
 
-We don't necessarily play all of these songs exactly like you see
-here.
-
 {% for dance in site.data.dances %}
 
-  {% if dance.song_image %}
-
-## {{ dance.song}}
-![{{dance.song}}]({{ dance.song_image }})
-
+  {% if dance.song_pdf %}
+## [{{dance.song}}]({{ dance.song_pdf }})
+  {% elsif dance.song_image %}
+## ![{{dance.song}}]({{ dance.song_image }})
   {% endif %}
 
 {% endfor %}
