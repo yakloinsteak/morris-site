@@ -16,7 +16,7 @@ videos:
 
 **Chorus** (Lichfield capers)
 
-**[Hey](/figures#hey)**
+**[Hey](/figures#hey)** (End with galley)
 
 **Chorus** (Scissor capers)
 
