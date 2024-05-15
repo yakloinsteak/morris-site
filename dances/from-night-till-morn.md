@@ -1,13 +1,13 @@
 ---
 permalink: /dances/from-night-till-morn
 title: From Night Till Morn
-history:horeographed by Laurel Swift in 2023, introduced to Windham at the 2024 winter retreat at the Broad Brook Community Center in Guilford, Vermont.  Slight adaptations followed.
-videos: 
+history: choreographed by Laurel Swift in 2023, introduced to Windham at the 2024 winter retreat at the Broad Brook Community Center in Guilford, Vermont. Slight adaptations followed.
+videos:
   - title: From Night Till Morn in Practice
-    link: https://youtu.be/FzGKsUBAJxY?si=0rFLaJ6y7pj6NKJj
+    link: https://www.youtube.com/embed/FzGKsUBAJxY?si=0rFLaJ6y7pj6NKJj
     date: 2024
   - title: From Night Till Morn Last Chorus
-    link: https://youtu.be/F5iMW-xwpyY?si=KqCiFM0Szw9nZ4pG
+    link: https://www.youtube.com/embed/F5iMW-xwpyY?si=KqCiFM0Szw9nZ4pG
     Date: 2024
 ---
 
@@ -17,7 +17,7 @@ videos:
 
 **Chorus**
 
-**[Crossing Over](/figures#crossing-over)**: outside foot, ends with plain capers, no clash 
+**[Crossing Over](/figures#crossing-over)**: outside foot, ends with plain capers, no clash
 
 **Chorus**
 
@@ -51,9 +51,9 @@ Big forehand clash high
 
 First Corners Cross: cross right shoulders with corner pair, double stepping
 
-Second Corners Stick: Hold stick in middle of R hand.  
+Second Corners Stick: Hold stick in middle of R hand.
 
-Swing stick back and strike ground with tip.  
+Swing stick back and strike ground with tip.
 Bring stick back up
 Clash butts backhand
 Clash tips forehand
