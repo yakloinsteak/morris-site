@@ -65,10 +65,8 @@ Do scoops until galley, join in on the galley.
 ````
   * caper, then galley right
   * On capers after galley, form a regular shaped set.  Most folks are in the right spot, but 3 and 4 need to slide back to their original positions.  3-6 will be in the right spots, 1-2 and 7-8 will be a long corner across from their original positions. 
-   * This part suggests that what 1-2 should do is Option 3: double step on double steps, scoop during caper and galley.
 
 **Corner Crossings**:
-
 
 * Doublesteps 1 and 2: first corners (1 and 8) cross
 * 3rd doublestep: middles cross
