@@ -187,8 +187,8 @@ More recently, in 2022 Tony and Margaret Dale Barrand passed on, and Tony’s
 life work continues to serve as incentive to continue the Lichfield and other
 Morris traditions in Brattleboro, Vermont, New England, and America.
 
-[https://blogs.loc.gov/folklife/2022/03/remembering-the-life-and-work-of-tony-barrand-the-2003-interview-part-3/](https://blogs.loc.gov/folklife/2022/03/remembering-the-life-and-work-of-tony-barrand-the-2003-interview-part-3/)
+Two interviews with Tony Barrand, in which he discusses some of this history:
 
-[https://www.legacy.com/us/obituaries/brattleboro/name/will-fielding-obituary?id=22705536](https://www.legacy.com/us/obituaries/brattleboro/name/will-fielding-obituary?id=22705536)
+[Remembering the Life and Work of Tony Barrand, 2003](https://blogs.loc.gov/folklife/2022/03/remembering-the-life-and-work-of-tony-barrand-the-2003-interview-part-3/)
 
-[Windham](https://docs.google.com/document/d/1Va1nKbAqVom90HB3D7BFIbWGwbgkJrfs/edit?usp=sharing&ouid=114842830821357460511&rtpof=true&sd=true)
+[Interview of Tony Barrand by Stuart Strothman, 2013](https://docs.google.com/document/d/1Va1nKbAqVom90HB3D7BFIbWGwbgkJrfs/edit?usp=sharing&ouid=114842830821357460511&rtpof=true&sd=true)
