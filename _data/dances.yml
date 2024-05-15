@@ -3,7 +3,8 @@
   link: /dances/barefooted-quaker
   description: Lorem
   song: Black Joke
-  song_image: /assets/music/black-joke.png
+  #song_image: /assets/music/black-joke.png
+  song_image: /assets/music/Bare Footed Quaker_The Black Joker.pdf
   lead_in: Once to self
   key: G
   sequence: "A &#x1D106 AAB- &#x1D107"
@@ -15,6 +16,7 @@
         - back to back
         - rounds for four
         - doubling up
+
 - name: "Barrows House"
   image: barrows-house.png
   link: /dances/barrows-house
@@ -162,6 +164,7 @@
   lead_in: Once to self
   key: G
   sequence: Opening Music, then "&#x1D106 AB &#x1D107 AC"; B is first part of Pop Goes the Weasel, C is second part of Pop Goes the Weasel.
+
 - name: John Bartlett's Fancy
   image: john.bartletts.fancy.png
   link: /dances/john-bartletts-fancy
@@ -172,6 +175,7 @@
   lead_in: Once to self (B music)
   key: Em
   sequence: "B &#x1D106 AB &#x1D107"
+
 - name: Off to California
   image: hankie.jpg
   link: /dances/off-to-california
@@ -180,24 +184,28 @@
   song: Off to California
   lead_in: once to self
   sequence: "A &#x1D106 AB &#x1D107 A"
-- name: Y Gaseg Eira
+
+- name: Snow Moose
   image: hankie.jpg
   link: /dances/y-gaseg-eira
   description: Lorem
   song: Y Gaseg Eira
-  song_image:
+  song_image: "Elc Yr Eira (The Snow Moose).pdf"
+
 - name: Paintbrush Jig
   image: hankie.jpg
   link: /dances/paintbrush-jig
   description: Lorem
   song:
   song_image:
+
 - name: Newtowne Oak
   image: hankie.jpg
   link: /dances/newtowne-oak
   description:
   song:
   song_image:
+
 - name: Board Shorts
   image: hankie.jpg
   link: /dances/board-shorts
@@ -211,21 +219,31 @@
   description:
   song:
   song_image:
+
 - name: All the Winds
   image: hankie.jpg
   link: /dances/all-the-winds
   description:
   song:
   song_image:
+
 - name: Nutting Girl
   image: hankie.jpg
   link: /dances/nutting-girl
   description:
   song:
   song_image:
+
 - name: "Trixie's Fever"
   image: hankie.jpg
   link: /dances/trixies-fever
+  description:
+  song:
+  song_image:
+
+- name: "From Night Till Morn"
+  image: hankie.jpg
+  link: /dances/from-night-till-morn
   description:
   song:
   song_image:

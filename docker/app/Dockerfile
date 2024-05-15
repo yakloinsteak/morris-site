@@ -1,4 +1,4 @@
-FROM ruby:3.0-slim-buster AS build
+FROM ruby:3.0-slim-buster AS base
 ARG USER_ID=1001
 ARG GROUP_ID=1001
 ARG BUNDLER_VERSION=2.4.12
@@ -27,11 +27,15 @@ USER app-user
 RUN bundle config set --local path /bundle \
     && bundle
 
+
+FROM base AS build
+
 COPY --chown=app-user:app-user . .
 
 RUN bundle exec jekyll build
 
 RUN bin/make.local
+
 
 FROM nginx:latest AS serve
 
