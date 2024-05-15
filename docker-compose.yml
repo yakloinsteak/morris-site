@@ -21,21 +21,23 @@ services:
       - "traefik.http.routers.morris.tls=true"
       - "traefik.enable=true"
 
+  # not working
   dev:
+    #image: morris:dev
+    image: jekyll/jekyll
+    stdin_open: true
+    tty: true
     ports:
       - "4000:4000"
       - "35729:35729"
     expose: ["4000"]
-    image: morris:dev
-    stdin_open: true
-    tty: true
-    build:
-      target: base
-      context: .
-      dockerfile: docker/app/Dockerfile
-      args:
-        USER_ID: ${USER_ID:-10000}
-        GROUP_ID: ${GROUP_ID:-10000}
+    # build:
+    #   target: base
+    #   context: .
+    #   dockerfile: docker/app/Dockerfile
+    #   args:
+    #     USER_ID: ${USER_ID:-10000}
+    #     GROUP_ID: ${GROUP_ID:-10000}
     environment:
       EDITOR: vi
       HISTFILE: /log/.bash_history # TODO: test
@@ -44,7 +46,8 @@ services:
       #- "traefik.http.routers.morris.tls=true"
       - "traefik.enable=true"
     volumes:
-      - .:/app:cached
+      #- .:/app:cached
+      - './:/srv/jekyll'
       #- bundle:/bundle
 
 networks:

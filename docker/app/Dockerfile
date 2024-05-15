@@ -20,7 +20,7 @@ RUN groupadd -g ${GROUP_ID} -r app-user \
 COPY docker/app/entrypoint.sh /
 RUN chmod +x /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
-CMD ["bundle", "exec", "jekyll", "serve", "--livereload"]
+CMD ["bundle", "exec", "jekyll", "serve", "--livereload", "--incremental", "--force_polling"]
 
 USER app-user
 
