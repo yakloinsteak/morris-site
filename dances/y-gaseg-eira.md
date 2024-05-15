@@ -1,34 +1,34 @@
 ---
 permalink: /dances/y-gaseg-eira
-title: The Snow Moose 
+title: The Snow Moose
 history: Adapted from the Welsh Nantgarw tradition.  Windham learned of the tradition and dance in 2022, and began learning the dance based on [Cardiff Morris's 2014 video](https://www.youtube.com/watch?v=xRNFF0_Jqok).  The name of the dance (which sometimes appears with "Caseg") means "The Snow Mare," which is apparently a Welsh idiom for a large snowball.  The "scooping" figures in the dance are reminiscent of creating a large snowball, and the cross-body hanky showing is reminiscent of hugging oneself in the cold.  Windham was motivated to learn Nantgarw in part because of possible connections to to Lichfield, including 8 dancer sets.  What we know about all this comes from [Cardiff Morris](http://www.cardiffmorris.org/Nantgarw.htm) and [wikipedia](https://en.wikipedia.org/wiki/Morris_dance#Morris_Dancing_in_Wales).  It is worth noting that, according to Wikipedia, "There are no hard and fast rules as to which Morris sides can perform dances from a tradition, but the original Nantgarw dance, Y Gaseg Eira, is considered to be a dance for the Welsh sides." Windham adapted the dance to make it easier for us to remember and closer in style to our other dances; these changes led to others, resulting in a quite different version.
 videos:
   - title: Cardiff Morris dancing Y Gaseg Eira
     link: https://www.youtube.com/embed/xRNFF0_Jqok
     date: 2014
   - title: Windham practice The Snow Moose
-    Link: https://youtu.be/lKEwAMrxd60?si=DbK0O7Jk40Q7FqXM
+    link: https://www.youtube.com/embed/lKEwAMrxd60?si=lJJ01jFaYJIt7ubq
     date: 2024
 ---
 ## Structure
 
-**[Step in Line](/figures#step-in-line)** 
+**[Step in Line](/figures#step-in-line)**
 
 **Chorus** (Lichfield capers)
 
-**[Hey](/figures#hey)** 
+**[Hey](/figures#hey)**
 
 **Chorus** (Scissor capers)
 
 **Max Rounds** (see Max Headroom)
 
-## **Chorus** (Castlering capers)
+**Chorus** (Castlering capers)
 
-**Chorus**:<br>
+## **Chorus**:<br>
 
 The chorus has 3 parts, “Scoop Down,” “Scoop Up,” and “Crossings”
 
- **Scoop Down**: 
+ **Scoop Down**:
 
 Instructions for everyone except 1 and 2:
 
@@ -48,12 +48,12 @@ Instructions for everyone except 1 and 2:
 
 Instructions for 1 and 2:
 
-Do scoops until galley, join in on the galley. 
+Do scoops until galley, join in on the galley.
 
 **Scoop Up**:
 
   * 1st double step: 8 and 6 cross, 1 and 2 cross with each other (across the set, passing by right shoulders).
-  * 2nd double steps: 5 and 7 cross. 
+  * 2nd double steps: 5 and 7 cross.
 * 3rd double step: 1-2 go down below others (see below for final positions)
 * 4th double step: everyone move up in formation
 
@@ -65,6 +65,7 @@ Do scoops until galley, join in on the galley.
 ````
   * caper, then galley right
   * On capers after galley, form a regular shaped set.  Most folks are in the right spot, but 3 and 4 need to slide back to their original positions.  3-6 will be in the right spots, 1-2 and 7-8 will be a long corner across from their original positions. 
+
 
 **Corner Crossings**:
 

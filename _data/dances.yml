@@ -4,7 +4,7 @@
   description: Lorem
   song: Black Joke
   #song_image: /assets/music/black-joke.png
-  song_image: /assets/music/Bare Footed Quaker_The Black Joker.pdf
+  song_pdf: /assets/music/Bare Footed Quaker_The Black Joker.pdf
   lead_in: Once to self
   key: G
   sequence: "A &#x1D106 AAB- &#x1D107"
@@ -22,7 +22,8 @@
   link: /dances/barrows-house
   description: Lorem
   song: Over The Hills and Far Away
-  song_image: /assets/music/annas-rose.png
+  #song_image: /assets/music/annas-rose.png
+  song_pdf: /assets/music/Over the Hills and Far Away.pdf
   lead_in: Once to self
   key: G
   sequence: "A &#x1D106 AB &#x1D107 A"
@@ -32,12 +33,14 @@
         - Litchfield Caper
         - Scissor Caper
         - Castlering Caper
+
 - name: Castlering
   image: castlering.jpg
   link: /dances/castlering
   description: Lorem
   song: Bobby Shaftoe
-  song_image: /assets/music/bobby-shaftoe.png
+  #song_image: /assets/music/bobby-shaftoe.png
+  song_pdf: /assets/music/Castle Ring_Bobby Shafto.pdf
   lead_in: Two notes
   key: G
   sequence: "A &#x1D106 AB &#x1D107 AAB"
@@ -46,12 +49,14 @@
       figures:
         - heading up
         - heading down
+
 - name: Charrington Toby
   image: toby.jpg
   link: /dances/charrington-toby
   description: Lorem
   song: Twin Sisters
-  song_image: /assets/music/twin-sisters.png
+  #song_image: /assets/music/twin-sisters.png
+  song_pdf: /assets/music/Twin Sisters_Charrington Tobey.pdf
   lead_in: Once to yourself
   key: G
   sequence: "A &#x1D106 AB &#x1D107"
@@ -61,39 +66,47 @@
         - V
         - X
         - circle
+
 - name: I-91
   image: i-91.jpg
   link: /dances/i-91
   description: Lorem
   song: Lillibulero
-  song_image: /assets/music/lilliburlero.png
+  # song_image: /assets/music/lilliburlero.png
+  song_pdf: /assets/music/Lilliburlero.pdf
   lead_in: Two notes
   key: D
   sequence: '"AA AA BBB &#x1D106 AABBB &#x1D107" AA AA BBB'
+
 - name: Max Headroom
   image: max.jpg
   link: /dances/max-headroom
   description: Lorem
   song: Donkey Riding
-  song_image: /assets/music/donkey-riding.png
+  # song_image: /assets/music/donkey-riding.png
+  song_pdf: /assets/music/Donkey Riding.pdf
   lead_in: Once to self
   key: Em
   sequence: "A &#x1D106 AB &#x1D107"
+
 - name: "Milley's Bequest"
   image: millie.capture.jpg
   link: /dances/milleys-bequest
   description: Lorem
   song: "Milley's Bequest"
-  song_image: /assets/music/milleys-bequest.png
+  # song_image: /assets/music/milleys-bequest.png
+  song_pdf: /assets/music/Millie_s Bequest.pdf
   lead_in: Once to self
   key: G
   sequence: "A &#x1D106 AB &#x1D107"
+
 - name: Ring O'Bells
   image: ring-o-bells.png
   link: /dances/ring-o-bells
   description: Lorem
   song: Ring O'Bells
-  song_image: /assets/music/ring-o-bells.png
+  #song_image: /assets/music/ring-o-bells.png
+  song_pdf: /assets/music/Ring O_Bells.pdf
   lead_in: Two beats
   key: G
   sequence: "&#x1D106 AB &#x1D107 AA BB"
@@ -112,35 +125,42 @@
         - Rounds
         - Doubling up
         - Down and out
+
 - name: Shepherds Hey
   image: hankie.jpg
   link: /dances/shepherds-hey
   description: Lorem
   song: Shepherds Hey
+
 - name: "Sheriff's Ride"
   image: sheriffs.ride.png
   link: /dances/sheriffs-ride
   description: Lorem
   song: "Sheriff's Ride"
-  song_image: /assets/music/sheriffs-ride.png
+  #song_image: /assets/music/sheriffs-ride.png
+  song_pdf: /assets/music/Sheriff_s Ride.pdf
   lead_in: Two beats
   key: Em
   sequence: "&#x1D106 AB &#x1D107 AA B"
+
 - name: Vandalls of Hammerwich
   image: "Vandalls2012.jpg"
   link: /dances/vandalls-of-hammerwich
   description: Lorem
   song: Vandalls of Hammerwich
-  song_image: /assets/music/vandalls.png
+  # song_image: /assets/music/vandalls.png
+  song_pdf: /assets/music/Vandals of Hammerswich.pdf
   lead_in: Two beats
   key: G
   sequence: "&#x1D106 AB &#x1D107 AA BB"
+
 - name: Nuts In May
   image: nuts-in-may.jpg
   link: /dances/nuts-in-may
   description:
   song: Nuts In May
   song_image:
+
 - name: Crossing the Moon
   image: crossing-the-moon.1.png
   link: /dances/crossing-the-moon
@@ -148,6 +168,7 @@
   song: Old Peculiar
   lead_in: Two beats
   sequence: heading up (A music) directly follows swagger round (A music); triple chorus (B); double A music for hey
+
 - name: "Ex's and Oh's"
   image: exs-and-ohs.png
   link: /dances/exs-and-ohs
@@ -155,12 +176,13 @@
   song_image:
   song: Ex's and Oh's (Elle King)
   lead_in: none
+
 - name: Jean Boardman's Cakes
   image: jean.boardmans.cakes.jpg
   link: /dances/jean-boardmans-cakes
   description: Lorem
-  song: Pop-Pop
   song: Popeye the Sailor Man and Pop Goes the Weasel ("Pop-Pop")
+  song_pdf: /assets/music/Pop Pop.pdf
   lead_in: Once to self
   key: G
   sequence: Opening Music, then "&#x1D106 AB &#x1D107 AC"; B is first part of Pop Goes the Weasel, C is second part of Pop Goes the Weasel.
@@ -171,7 +193,6 @@
   description: Lorem
   song: Drive the Cold Winter Away
   song_image: /assets/music/drive-the-cold-winter-away.png
-  song: Drive the Cold Winter Away
   lead_in: Once to self (B music)
   key: Em
   sequence: "B &#x1D106 AB &#x1D107"
@@ -181,7 +202,6 @@
   link: /dances/off-to-california
   description: Lorem
   song: Off to California
-  song: Off to California
   lead_in: once to self
   sequence: "A &#x1D106 AB &#x1D107 A"
 
@@ -190,7 +210,8 @@
   link: /dances/y-gaseg-eira
   description: Lorem
   song: Y Gaseg Eira
-  song_image: "Elc Yr Eira (The Snow Moose).pdf"
+  song_image:
+  song_pdf: "Elc Yr Eira (The Snow Moose).pdf"
 
 - name: Paintbrush Jig
   image: hankie.jpg
@@ -247,3 +268,4 @@
   description:
   song:
   song_image:
+  song_pdf: /assets/music/From Night _til Morn.pdf

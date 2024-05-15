@@ -18,7 +18,7 @@ services:
       HISTFILE: /log/.bash_history # TODO: test
     labels:
       - "traefik.http.routers.morris.rule=Host(`morris.127.0.0.1.nip.io`)"
-      - "traefik.http.routers.morris.tls=true"
+      #- "traefik.http.routers.morris.tls=true"
       - "traefik.enable=true"
 
   # not working
