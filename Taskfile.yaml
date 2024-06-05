@@ -1,0 +1,45 @@
+version: '3'
+
+tasks:
+  default:
+    desc: lists all tasks
+    cmds:
+      - task --list
+
+  build:
+    desc: Builds the image
+    cmds:
+      - docker compose build web
+
+  start:
+    deps:
+      - build
+    desc: Starts
+    cmds:
+      - docker compose up -d web
+
+  watch:
+    desc: Starts
+    cmds:
+      - watchexec -e md,html,yml 'docker compose build web; docker compose stop web; docker compose up -d web'
+
+  logs:
+    deps:
+      - start
+    cmds:
+      - docker compose logs -f web
+      - docker compose logs -f web
+      - docker compose logs -f web
+      - docker compose logs -f web
+      - docker compose logs -f web
+      - docker compose logs -f web
+
+  certs:
+    cmds:
+      - curl -JLO "https://dl.filippo.io/mkcert/latest?for=linux/amd64"
+      - chmod +x mkcert-v*-linux-amd64
+      - sudo mv mkcert-v*-linux-amd64 /usr/local/bin/mkcert
+      - sudo apt-get install -y libnss3-tools
+      - mkcert -install
+      - mkcert morris.127.0.0.1.nip.io 127.0.0.1 ::1
+
