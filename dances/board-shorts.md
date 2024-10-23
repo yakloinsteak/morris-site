@@ -24,32 +24,28 @@ Which way do you galley? 1 and 3 galley L first, 2 and 4 galley R first.
 
 **Chorus**
 
-**Hey**: Double stepping, middles start crossing by right shoulder (while ends
-do first double step in place, before heading off to their own right (before
-coming back left to cross right shoulders in the middle).  In general, cross
-right shoulders in the middle, do a big counterclockwise loop on ends.
 
-At end, stop one place from home, and then galley left towards home, crossing
-left shoulders with partner. End facing in for chorus.
+**Heading Up**
+
+The line is half-way between the front and back. See å for what we used to do.
+
+up
+```
+3 1 2 4
+```
+down
 
 **Chorus**
 
-**Max Rounds**: Main Idea: Travel in a big circle clockwise, turn around and
-travel counterclockwise, galley home.
+**Heading Down**
 
-2 double steps and then a galley L in clockwise circle.  Ends start moving 90
-degrees toward left (as in circle's tangent), and middle move at about 45
-degrees, between forward and left.  To do galley, square in, and galley left
-along the line of the circle.  With practice, one can move smoothly into the
-galley from the double steps so it happens with a leaping/running transition
-instead of a stop.  In general, folks get a little less than halfway around the
-circle (ends don't quite make it to the opposite end).  Use the capers from the
-galley to face clockwise.
+The line is half-way between the front and back. See ض for what we used to do.
 
-2 double steps back counterclockwise around circle, then galley home.  For this
-galley, middles square out-ish and then galley L toward their home position,
-while ends square in and galley R around the circle toward home.  Ends facing
-in for chorus.
+up
+```
+1 3 4 2
+```
+down
 
 **Chorus**
 
@@ -69,7 +65,7 @@ End facing up.
 
 ## Chorus
 
-Main Idea: Swirling to Clump,  Swirling and Galley Home
+Main Idea: Swirling to Clump, Swirling and Galley Home
 
 **Swirling to Clump**: Middle and Ends have different parts for first 4 double steps:
 Middles: pass by right shoulders, but then turn right and come back at roughly 4 or 5 o-clock (or maybe just 3?) relative to starting orientation, then turn left and loop back to join a small circle/clump in the middle
@@ -113,3 +109,31 @@ Up
 1  3  2   4
 ```
 Down
+
+## Previous Figures We've Retired From This Dance
+
+**å Hey** We used to do the Hey instead of heading up. Double stepping, middles
+start crossing by right shoulder (while ends do first double step in place,
+before heading off to their own right (before coming back left to cross right
+shoulders in the middle).  In general, cross right shoulders in the middle, do
+a big counterclockwise loop on ends.
+
+At end, stop one place from home, and then galley left towards home, crossing
+left shoulders with partner. End facing in for chorus.
+
+**ض Max Rounds**: Main Idea: Travel in a big circle clockwise, turn around and
+travel counterclockwise, galley home.
+
+2 double steps and then a galley L in clockwise circle.  Ends start moving 90
+degrees toward left (as in circle's tangent), and middle move at about 45
+degrees, between forward and left.  To do galley, square in, and galley left
+along the line of the circle.  With practice, one can move smoothly into the
+galley from the double steps so it happens with a leaping/running transition
+instead of a stop.  In general, folks get a little less than halfway around
+the circle (ends don't quite make it to the opposite end).  Use the capers
+from the galley to face clockwise.
+
+2 double steps back counterclockwise around circle, then galley home.  For
+this galley, middles square out-ish and then galley L toward their home
+position, while ends square in and galley R around the circle toward home.
+Ends facing in for chorus.
