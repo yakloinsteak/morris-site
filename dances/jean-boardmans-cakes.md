@@ -6,6 +6,9 @@ videos:
   - title: Jean Boardman's Cakes performed at the Marlboro Morris Ale
     link: https://www.youtube.com/embed/g3MmZmpf27M
     date: c. 2017-19
+  - title: Jean Boardman's Cakes
+    link: https://www.youtube.com/embed/zB41uo7g_rk
+    date: "May 5, 2019"
   - title: Jean Boardman's Cakes at practice
     link: https://www.youtube.com/embed/nutcRImRHfw
     date: 2019
