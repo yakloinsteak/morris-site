@@ -6,7 +6,7 @@ videos:
   - title: Abnalls
     link: https://assets.windham.club/videos/abnalls.mp4
     date: May, 2023
-  - title: 1983 Stafford Morris Men
+  - title: Video of 1983 Stafford Morris Men
     link: https://www.youtube.com/embed/MClbjr2ZTM0
 ---
 One stick
